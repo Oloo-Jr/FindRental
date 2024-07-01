@@ -5,12 +5,12 @@
     {
       "src": "logo-footer.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "71x71"
     },
     {
       "src": "logo-footer.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "71x71"
     }
   ],
   "start_url": ".",

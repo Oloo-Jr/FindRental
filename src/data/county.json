@@ -1,0 +1,7489 @@
+{
+  "County": [
+    {
+      "county_name": "MOMBASA",
+      "constituencies": [
+        {
+          "constituency_name": "CHANGAMWE",
+          "wards": [
+            [
+              "1",
+              "PORT REITZ"
+            ],
+            [
+              "2",
+              "KIPEVU"
+            ],
+            [
+              "3",
+              "AIRPORT"
+            ],
+            [
+              "4",
+              "CHANGAMWE"
+            ],
+            [
+              "5",
+              "CHAANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "JOMVU",
+          "wards": [
+            [
+              "6",
+              "JOMVU KUU"
+            ],
+            [
+              "7",
+              "MIRITINI"
+            ],
+            [
+              "8",
+              "MIKINDANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KISAUNI",
+          "wards": [
+            [
+              "9",
+              "MJAMBERE"
+            ],
+            [
+              "10",
+              "JUNDA"
+            ],
+            [
+              "11",
+              "BAMBURI"
+            ],
+            [
+              "12",
+              "MWAKIRUNGE"
+            ],
+            [
+              "13",
+              "MTOPANGA"
+            ],
+            [
+              "14",
+              "MAGOGONI"
+            ],
+            [
+              "15",
+              "SHANZU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYALI",
+          "wards": [
+            [
+              "16",
+              "FRERE TOWN"
+            ],
+            [
+              "17",
+              "ZIWA LA NG'OMBE"
+            ],
+            [
+              "18",
+              "MKOMANI"
+            ],
+            [
+              "19",
+              "KONGOWEA"
+            ],
+            [
+              "20",
+              "KADZANDANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LIKONI",
+          "wards": [
+            [
+              "21",
+              "MTONGWE"
+            ],
+            [
+              "22",
+              "SHIKA ADABU"
+            ],
+            [
+              "23",
+              "BOFU"
+            ],
+            [
+              "24",
+              "LIKONI"
+            ],
+            [
+              "25",
+              "TIMBWANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MVITA",
+          "wards": [
+            [
+              "26",
+              "MJI WA KALE/MAKADARA"
+            ],
+            [
+              "27",
+              "TUDOR"
+            ],
+            [
+              "28",
+              "TONONOKA"
+            ],
+            [
+              "29",
+              "SHIMANZI/GANJONI"
+            ],
+            [
+              "30",
+              "MAJENGO"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KWALE",
+      "constituencies": [
+        {
+          "constituency_name": "MSAMBWENI",
+          "wards": [
+            [
+              "31",
+              "GOMBATOBONGWE"
+            ],
+            [
+              "32",
+              "UKUNDA"
+            ],
+            [
+              "33",
+              "KINONDO"
+            ],
+            [
+              "34",
+              "RAMISI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LUNGALUNGA",
+          "wards": [
+            [
+              "35",
+              "PONGWEKIKONENI"
+            ],
+            [
+              "36",
+              "DZOMBO"
+            ],
+            [
+              "37",
+              "MWERENI"
+            ],
+            [
+              "38",
+              "VANGA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATUGA",
+          "wards": [
+            [
+              "39",
+              "TSIMBA GOLINI"
+            ],
+            [
+              "40",
+              "WAA"
+            ],
+            [
+              "41",
+              "TIWI"
+            ],
+            [
+              "42",
+              "KUBO SOUTH"
+            ],
+            [
+              "43",
+              "MKONGANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KINANGO",
+          "wards": [
+            [
+              "44",
+              "NADAVAYA"
+            ],
+            [
+              "45",
+              "PUMA"
+            ],
+            [
+              "46",
+              "KINANGO"
+            ],
+            [
+              "47",
+              "MACKINNON-ROAD"
+            ],
+            [
+              "48",
+              "CHENGONI/SAMBURU"
+            ],
+            [
+              "49",
+              "MWAVUMBO"
+            ],
+            [
+              "50",
+              "KASEMENI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KILIFI",
+      "constituencies": [
+        {
+          "constituency_name": "KILIFI NORTH",
+          "wards": [
+            [
+              "51",
+              "TEZO"
+            ],
+            [
+              "52",
+              "SOKONI"
+            ],
+            [
+              "53",
+              "KIBARANI"
+            ],
+            [
+              "54",
+              "DABASO"
+            ],
+            [
+              "55",
+              "MATSANGONI"
+            ],
+            [
+              "56",
+              "WATAMU"
+            ],
+            [
+              "57",
+              "MNARANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KILIFI SOUTH",
+          "wards": [
+            [
+              "58",
+              "JUNJU"
+            ],
+            [
+              "59",
+              "MWARAKAYA"
+            ],
+            [
+              "60",
+              "SHIMO LA TEWA"
+            ],
+            [
+              "61",
+              "CHASIMBA"
+            ],
+            [
+              "62",
+              "MTEPENI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KALOLENI",
+          "wards": [
+            [
+              "63",
+              "MARIAKANI"
+            ],
+            [
+              "64",
+              "KAYAFUNGO"
+            ],
+            [
+              "65",
+              "KALOLENI"
+            ],
+            [
+              "66",
+              "MWANAMWINGA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RABAI",
+          "wards": [
+            [
+              "67",
+              "MWAWESA"
+            ],
+            [
+              "68",
+              "RURUMA"
+            ],
+            [
+              "69",
+              "KAMBE/RIBE"
+            ],
+            [
+              "70",
+              "RABAI/KISURUTINI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GANZE",
+          "wards": [
+            [
+              "71",
+              "GANZE"
+            ],
+            [
+              "72",
+              "BAMBA"
+            ],
+            [
+              "73",
+              "JARIBUNI"
+            ],
+            [
+              "74",
+              "SOKOKE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MALINDI",
+          "wards": [
+            [
+              "75",
+              "JILORE"
+            ],
+            [
+              "76",
+              "KAKUYUNI"
+            ],
+            [
+              "77",
+              "GANDA"
+            ],
+            [
+              "78",
+              "MALINDI TOWN"
+            ],
+            [
+              "79",
+              "SHELLA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MAGARINI",
+          "wards": [
+            [
+              "80",
+              "MARAFA"
+            ],
+            [
+              "81",
+              "MAGARINI"
+            ],
+            [
+              "82",
+              "GONGONI"
+            ],
+            [
+              "83",
+              "ADU"
+            ],
+            [
+              "84",
+              "GARASHI"
+            ],
+            [
+              "85",
+              "SABAKI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "TANA RIVER",
+      "constituencies": [
+        {
+          "constituency_name": "GARSEN",
+          "wards": [
+            [
+              "86",
+              "KIPINI EAST"
+            ],
+            [
+              "87",
+              "GARSEN SOUTH"
+            ],
+            [
+              "88",
+              "KIPINI WEST"
+            ],
+            [
+              "89",
+              "GARSEN CENTRAL"
+            ],
+            [
+              "90",
+              "GARSEN WEST"
+            ],
+            [
+              "91",
+              "GARSEN NORTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GALOLE",
+          "wards": [
+            [
+              "92",
+              "KINAKOMBA"
+            ],
+            [
+              "93",
+              "MIKINDUNI"
+            ],
+            [
+              "94",
+              "CHEWANI"
+            ],
+            [
+              "95",
+              "WAYU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BURA",
+          "wards": [
+            [
+              "96",
+              "CHEWELE"
+            ],
+            [
+              "97",
+              "BURA"
+            ],
+            [
+              "98",
+              "BANGALE"
+            ],
+            [
+              "99",
+              "SALA"
+            ],
+            [
+              "100",
+              "MADOGO"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "LAMU",
+      "constituencies": [
+        {
+          "constituency_name": "LAMU EAST",
+          "wards": [
+            [
+              "101",
+              "FAZA"
+            ],
+            [
+              "102",
+              "KIUNGA"
+            ],
+            [
+              "103",
+              "BASUBA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LAMU WEST",
+          "wards": [
+            [
+              "104",
+              "SHELLA"
+            ],
+            [
+              "105",
+              "MKOMANI"
+            ],
+            [
+              "106",
+              "HINDI"
+            ],
+            [
+              "107",
+              "MKUNUMBI"
+            ],
+            [
+              "108",
+              "HONGWE"
+            ],
+            [
+              "109",
+              "WITU"
+            ],
+            [
+              "110",
+              "BAHARI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "TAITA TAVETA",
+      "constituencies": [
+        {
+          "constituency_name": "TAVETA",
+          "wards": [
+            [
+              "111",
+              "CHALA"
+            ],
+            [
+              "112",
+              "MAHOO"
+            ],
+            [
+              "113",
+              "BOMENI"
+            ],
+            [
+              "114",
+              "MBOGHONI"
+            ],
+            [
+              "115",
+              "MATA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WUNDANYI",
+          "wards": [
+            [
+              "116",
+              "WUNDANYI/MBALE"
+            ],
+            [
+              "117",
+              "WERUGHA"
+            ],
+            [
+              "118",
+              "WUMINGU/KISHUSHE"
+            ],
+            [
+              "119",
+              "MWANDA/MGANGE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MWATATE",
+          "wards": [
+            [
+              "120",
+              "RONG'E"
+            ],
+            [
+              "121",
+              "MWATATE"
+            ],
+            [
+              "122",
+              "BURA"
+            ],
+            [
+              "123",
+              "CHAWIA"
+            ],
+            [
+              "124",
+              "WUSI/KISHAMBA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "VOI",
+          "wards": [
+            [
+              "125",
+              "MBOLOLO"
+            ],
+            [
+              "126",
+              "SAGALLA"
+            ],
+            [
+              "127",
+              "KALOLENI"
+            ],
+            [
+              "128",
+              "MARUNGU"
+            ],
+            [
+              "129",
+              "KASIGAU"
+            ],
+            [
+              "130",
+              "NGOLIA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "GARISSA",
+      "constituencies": [
+        {
+          "constituency_name": "GARISSA TOWNSHIP",
+          "wards": [
+            [
+              "131",
+              "WABERI"
+            ],
+            [
+              "132",
+              "GALBET"
+            ],
+            [
+              "133",
+              "TOWNSHIP"
+            ],
+            [
+              "134",
+              "IFTIN"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BALAMBALA",
+          "wards": [
+            [
+              "135",
+              "BALAMBALA"
+            ],
+            [
+              "136",
+              "DANYERE"
+            ],
+            [
+              "137",
+              "JARA JARA"
+            ],
+            [
+              "138",
+              "SAKA"
+            ],
+            [
+              "139",
+              "SANKURI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LAGDERA",
+          "wards": [
+            [
+              "140",
+              "MODOGASHE"
+            ],
+            [
+              "141",
+              "BENANE"
+            ],
+            [
+              "142",
+              "GOREALE"
+            ],
+            [
+              "143",
+              "MAALIMIN"
+            ],
+            [
+              "144",
+              "SABENA"
+            ],
+            [
+              "145",
+              "BARAKI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "DADAAB",
+          "wards": [
+            [
+              "146",
+              "DERTU"
+            ],
+            [
+              "147",
+              "DADAAB"
+            ],
+            [
+              "148",
+              "LABASIGALE"
+            ],
+            [
+              "149",
+              "DAMAJALE"
+            ],
+            [
+              "150",
+              "LIBOI"
+            ],
+            [
+              "151",
+              "ABAKAILE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "FAFI",
+          "wards": [
+            [
+              "152",
+              "BURA"
+            ],
+            [
+              "153",
+              "DEKAHARIA"
+            ],
+            [
+              "154",
+              "JARAJILA"
+            ],
+            [
+              "155",
+              "FAFI"
+            ],
+            [
+              "156",
+              "NANIGHI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "IJARA",
+          "wards": [
+            [
+              "157",
+              "HULUGHO"
+            ],
+            [
+              "158",
+              "SANGAILU"
+            ],
+            [
+              "159",
+              "IJARA"
+            ],
+            [
+              "160",
+              "MASALANI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "WAJIR",
+      "constituencies": [
+        {
+          "constituency_name": "WAJIR NORTH",
+          "wards": [
+            [
+              "161",
+              "GURAR"
+            ],
+            [
+              "162",
+              "BUTE"
+            ],
+            [
+              "163",
+              "KORONDILE"
+            ],
+            [
+              "164",
+              "MALKAGUFU"
+            ],
+            [
+              "165",
+              "BATALU"
+            ],
+            [
+              "166",
+              "DANABA"
+            ],
+            [
+              "167",
+              "GODOMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WAJIR EAST",
+          "wards": [
+            [
+              "168",
+              "WAGBERI"
+            ],
+            [
+              "169",
+              "TOWNSHIP"
+            ],
+            [
+              "170",
+              "BARWAGO"
+            ],
+            [
+              "171",
+              "KHOROF/HARAR"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TARBAJ",
+          "wards": [
+            [
+              "172",
+              "ELBEN"
+            ],
+            [
+              "173",
+              "SARMAN"
+            ],
+            [
+              "174",
+              "TARBAJ"
+            ],
+            [
+              "175",
+              "WARGADUD"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WAJIR WEST",
+          "wards": [
+            [
+              "176",
+              "ARBAJAHAN"
+            ],
+            [
+              "177",
+              "HADADO/ATHIBOHOL"
+            ],
+            [
+              "178",
+              "ADEMASAJIDE"
+            ],
+            [
+              "179",
+              "WAGALLA/GANYURE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ELDAS",
+          "wards": [
+            [
+              "180",
+              "ELDAS"
+            ],
+            [
+              "181",
+              "DELLA"
+            ],
+            [
+              "182",
+              "LAKOLEY SOUTH/BASIR"
+            ],
+            [
+              "183",
+              "ELNUR/TULA TULA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WAJIR SOUTH",
+          "wards": [
+            [
+              "184",
+              "BENANE"
+            ],
+            [
+              "185",
+              "BURDER"
+            ],
+            [
+              "186",
+              "DADAJA BULLA"
+            ],
+            [
+              "187",
+              "HABASSWEIN"
+            ],
+            [
+              "188",
+              "LAGBOGHOL SOUTH"
+            ],
+            [
+              "189",
+              "IBRAHIM URE"
+            ],
+            [
+              "190",
+              "DIIF"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MANDERA",
+      "constituencies": [
+        {
+          "constituency_name": "MANDERA WEST",
+          "wards": [
+            [
+              "191",
+              "TAKABA SOUTH"
+            ],
+            [
+              "192",
+              "TAKABA"
+            ],
+            [
+              "193",
+              "LAG SURE"
+            ],
+            [
+              "194",
+              "DANDU"
+            ],
+            [
+              "195",
+              "GITHER"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BANISSA",
+          "wards": [
+            [
+              "196",
+              "BANISSA"
+            ],
+            [
+              "197",
+              "DERKHALE"
+            ],
+            [
+              "198",
+              "GUBA"
+            ],
+            [
+              "199",
+              "MALKAMARI"
+            ],
+            [
+              "200",
+              "KILIWEHIRI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MANDERA NORTH",
+          "wards": [
+            [
+              "201",
+              "ASHABITO"
+            ],
+            [
+              "202",
+              "GUTICHA"
+            ],
+            [
+              "203",
+              "MOROTHILE"
+            ],
+            [
+              "204",
+              "RHAMU"
+            ],
+            [
+              "205",
+              "RHAMU-DIMTU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MANDERA SOUTH",
+          "wards": [
+            [
+              "206",
+              "WARGUDUD"
+            ],
+            [
+              "207",
+              "KUTULO"
+            ],
+            [
+              "208",
+              "ELWAK SOUTH"
+            ],
+            [
+              "209",
+              "ELWAK NORTH"
+            ],
+            [
+              "210",
+              "SHIMBIR FATUMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MANDERA EAST",
+          "wards": [
+            [
+              "211",
+              "ARABIA"
+            ],
+            [
+              "212",
+              "BULLA MPYA"
+            ],
+            [
+              "213",
+              "KHALALIO"
+            ],
+            [
+              "214",
+              "NEBOI"
+            ],
+            [
+              "215",
+              "TOWNSHIP"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LAFEY",
+          "wards": [
+            [
+              "216",
+              "LIBEHIA"
+            ],
+            [
+              "217",
+              "FINO"
+            ],
+            [
+              "218",
+              "LAFEY"
+            ],
+            [
+              "219",
+              "WARANKARA"
+            ],
+            [
+              "220",
+              "ALUNGO GOF"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MARSABIT",
+      "constituencies": [
+        {
+          "constituency_name": "MOYALE",
+          "wards": [
+            [
+              "221",
+              "BUTIYE"
+            ],
+            [
+              "222",
+              "SOLOLO"
+            ],
+            [
+              "223",
+              "HEILU-MANYATTA"
+            ],
+            [
+              "224",
+              "GOLBO"
+            ],
+            [
+              "225",
+              "MOYALE TOWNSHIP"
+            ],
+            [
+              "226",
+              "URAN"
+            ],
+            [
+              "227",
+              "OBBU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NORTH HORR",
+          "wards": [
+            [
+              "228",
+              "ILLERET"
+            ],
+            [
+              "229",
+              "NORTH HORR"
+            ],
+            [
+              "230",
+              "DUKANA"
+            ],
+            [
+              "231",
+              "MAIKONA"
+            ],
+            [
+              "232",
+              "TURBI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SAKU",
+          "wards": [
+            [
+              "233",
+              "SAGANTE/JALDESA"
+            ],
+            [
+              "234",
+              "KARARE"
+            ],
+            [
+              "235",
+              "MARSABIT CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LAISAMIS",
+          "wards": [
+            [
+              "236",
+              "LOIYANGALANI"
+            ],
+            [
+              "237",
+              "KARGI/SOUTH HORR"
+            ],
+            [
+              "238",
+              "KORR/NGURUNIT"
+            ],
+            [
+              "239",
+              "LOG LOGO"
+            ],
+            [
+              "240",
+              "LAISAMIS"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "ISIOLO",
+      "constituencies": [
+        {
+          "constituency_name": "ISIOLO NORTH",
+          "wards": [
+            [
+              "241",
+              "WABERA"
+            ],
+            [
+              "242",
+              "BULLA PESA"
+            ],
+            [
+              "243",
+              "CHARI"
+            ],
+            [
+              "244",
+              "CHERAB"
+            ],
+            [
+              "245",
+              "NGARE MARA"
+            ],
+            [
+              "246",
+              "BURAT"
+            ],
+            [
+              "247",
+              "OLDONYIRO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ISIOLO SOUTH",
+          "wards": [
+            [
+              "248",
+              "GARBATULLA"
+            ],
+            [
+              "249",
+              "KINNA"
+            ],
+            [
+              "250",
+              "SERICHO"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MERU",
+      "constituencies": [
+        {
+          "constituency_name": "IGEMBE SOUTH",
+          "wards": [
+            [
+              "251",
+              "MAUA"
+            ],
+            [
+              "252",
+              "KIEGOI/ANTUBOCHIU"
+            ],
+            [
+              "253",
+              "ATHIRU GAITI"
+            ],
+            [
+              "254",
+              "AKACHIU"
+            ],
+            [
+              "255",
+              "KANUNI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "IGEMBE CENTRAL",
+          "wards": [
+            [
+              "256",
+              "AKIRANG'ONDU"
+            ],
+            [
+              "257",
+              "ATHIRU RUUJINE"
+            ],
+            [
+              "258",
+              "IGEMBE EAST"
+            ],
+            [
+              "259",
+              "NJIA"
+            ],
+            [
+              "260",
+              "KANGETA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "IGEMBE NORTH",
+          "wards": [
+            [
+              "261",
+              "ANTUAMBUI"
+            ],
+            [
+              "262",
+              "NTUNENE"
+            ],
+            [
+              "263",
+              "ANTUBETWE KIONGO"
+            ],
+            [
+              "264",
+              "NAATHU"
+            ],
+            [
+              "265",
+              "AMWATHI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TIGANIA WEST",
+          "wards": [
+            [
+              "266",
+              "ATHWANA"
+            ],
+            [
+              "267",
+              "AKITHII"
+            ],
+            [
+              "268",
+              "KIANJAI"
+            ],
+            [
+              "269",
+              "NKOMO"
+            ],
+            [
+              "270",
+              "MBEU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TIGANIA EAST",
+          "wards": [
+            [
+              "271",
+              "THANGATHA"
+            ],
+            [
+              "272",
+              "MIKINDURI"
+            ],
+            [
+              "273",
+              "KIGUCHWA"
+            ],
+            [
+              "274",
+              "MUTHARA"
+            ],
+            [
+              "275",
+              "KARAMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NORTH IMENTI",
+          "wards": [
+            [
+              "276",
+              "MUNICIPALITY"
+            ],
+            [
+              "277",
+              "NTIMA EAST"
+            ],
+            [
+              "278",
+              "NTIMA WEST"
+            ],
+            [
+              "279",
+              "NYAKI WEST"
+            ],
+            [
+              "280",
+              "NYAKI EAST"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BUURI",
+          "wards": [
+            [
+              "281",
+              "TIMAU"
+            ],
+            [
+              "282",
+              "KISIMA"
+            ],
+            [
+              "283",
+              "KIIRUA/NAARI"
+            ],
+            [
+              "284",
+              "RUIRI/RWARERA"
+            ],
+            [
+              "285",
+              "KIBIRICHIA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "CENTRAL IMENTI",
+          "wards": [
+            [
+              "286",
+              "MWANGANTHIA"
+            ],
+            [
+              "287",
+              "ABOTHUGUCHI CENTRAL"
+            ],
+            [
+              "288",
+              "ABOTHUGUCHI WEST"
+            ],
+            [
+              "289",
+              "KIAGU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SOUTH IMENTI",
+          "wards": [
+            [
+              "290",
+              "MITUNGUU"
+            ],
+            [
+              "291",
+              "IGOJI EAST"
+            ],
+            [
+              "292",
+              "IGOJI WEST"
+            ],
+            [
+              "293",
+              "ABOGETA EAST"
+            ],
+            [
+              "294",
+              "ABOGETA WEST"
+            ],
+            [
+              "295",
+              "NKUENE"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "THARAKA-NITHI",
+      "constituencies": [
+        {
+          "constituency_name": "MAARA",
+          "wards": [
+            [
+              "296",
+              "MITHERU"
+            ],
+            [
+              "297",
+              "MUTHAMBI"
+            ],
+            [
+              "298",
+              "MWIMBI"
+            ],
+            [
+              "299",
+              "GANGA"
+            ],
+            [
+              "300",
+              "CHOGORIA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "CHUKA/IGAMBANG'OM",
+          "wards": [
+            [
+              "301",
+              "MARIANI"
+            ],
+            [
+              "302",
+              "KARINGANI"
+            ],
+            [
+              "303",
+              "MAGUMONI"
+            ],
+            [
+              "304",
+              "MUGWE"
+            ],
+            [
+              "305",
+              "IGAMBANG'OMBE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "THARAKA",
+          "wards": [
+            [
+              "306",
+              "GATUNGA"
+            ],
+            [
+              "307",
+              "MUKOTHIMA"
+            ],
+            [
+              "308",
+              "NKONDI"
+            ],
+            [
+              "309",
+              "CHIAKARIGA"
+            ],
+            [
+              "310",
+              "MARIMANTI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "EMBU",
+      "constituencies": [
+        {
+          "constituency_name": "MANYATTA",
+          "wards": [
+            [
+              "311",
+              "RUGURU/NGANDORI"
+            ],
+            [
+              "312",
+              "KITHIMU"
+            ],
+            [
+              "313",
+              "NGINDA"
+            ],
+            [
+              "314",
+              "MBETI NORTH"
+            ],
+            [
+              "315",
+              "KIRIMARI"
+            ],
+            [
+              "316",
+              "GATURI SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RUNYENJES",
+          "wards": [
+            [
+              "317",
+              "GATURI NORTH"
+            ],
+            [
+              "318",
+              "KAGAARI SOUTH"
+            ],
+            [
+              "319",
+              "CENTRAL  WARD"
+            ],
+            [
+              "320",
+              "KAGAARI NORTH"
+            ],
+            [
+              "321",
+              "KYENI NORTH"
+            ],
+            [
+              "322",
+              "KYENI SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MBEERE SOUTH",
+          "wards": [
+            [
+              "323",
+              "MWEA"
+            ],
+            [
+              "324",
+              "MAKIMA"
+            ],
+            [
+              "325",
+              "MBETI SOUTH"
+            ],
+            [
+              "326",
+              "MAVURIA"
+            ],
+            [
+              "327",
+              "KIAMBERE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MBEERE NORTH",
+          "wards": [
+            [
+              "328",
+              "NTHAWA"
+            ],
+            [
+              "329",
+              "MUMINJI"
+            ],
+            [
+              "330",
+              "EVURORE"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KITUI",
+      "constituencies": [
+        {
+          "constituency_name": "MWINGI NORTH",
+          "wards": [
+            [
+              "331",
+              "NGOMENI"
+            ],
+            [
+              "332",
+              "KYUSO"
+            ],
+            [
+              "333",
+              "MUMONI"
+            ],
+            [
+              "334",
+              "TSEIKURU"
+            ],
+            [
+              "335",
+              "THARAKA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MWINGI WEST",
+          "wards": [
+            [
+              "336",
+              "KYOME/THAANA"
+            ],
+            [
+              "337",
+              "NGUUTANI"
+            ],
+            [
+              "338",
+              "MIGWANI"
+            ],
+            [
+              "339",
+              "KIOMO/KYETHANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MWINGI CENTRAL",
+          "wards": [
+            [
+              "340",
+              "CENTRAL"
+            ],
+            [
+              "341",
+              "KIVOU"
+            ],
+            [
+              "342",
+              "NGUNI"
+            ],
+            [
+              "343",
+              "NUU"
+            ],
+            [
+              "344",
+              "MUI"
+            ],
+            [
+              "345",
+              "WAITA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUI WEST",
+          "wards": [
+            [
+              "346",
+              "MUTONGUNI"
+            ],
+            [
+              "347",
+              "KAUWI"
+            ],
+            [
+              "348",
+              "MATINYANI"
+            ],
+            [
+              "349",
+              "KWA MUTONGA/KITHUMULA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUI RURAL",
+          "wards": [
+            [
+              "350",
+              "KISASI"
+            ],
+            [
+              "351",
+              "MBITINI"
+            ],
+            [
+              "352",
+              "KWAVONZA/YATTA"
+            ],
+            [
+              "353",
+              "KANYANGI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUI CENTRAL",
+          "wards": [
+            [
+              "354",
+              "MIAMBANI"
+            ],
+            [
+              "355",
+              "TOWNSHIP"
+            ],
+            [
+              "356",
+              "KYANGWITHYA WEST"
+            ],
+            [
+              "357",
+              "MULANGO"
+            ],
+            [
+              "358",
+              "KYANGWITHYA EAST"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUI EAST",
+          "wards": [
+            [
+              "359",
+              "ZOMBE/MWITIKA"
+            ],
+            [
+              "360",
+              "CHULUNI"
+            ],
+            [
+              "361",
+              "NZAMBANI"
+            ],
+            [
+              "362",
+              "VOO/KYAMATU"
+            ],
+            [
+              "363",
+              "ENDAU/MALALANI"
+            ],
+            [
+              "364",
+              "MUTITO/KALIKU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUI SOUTH",
+          "wards": [
+            [
+              "365",
+              "IKANGA/KYATUNE"
+            ],
+            [
+              "366",
+              "MUTOMO"
+            ],
+            [
+              "367",
+              "MUTHA"
+            ],
+            [
+              "368",
+              "IKUTHA"
+            ],
+            [
+              "369",
+              "KANZIKO"
+            ],
+            [
+              "370",
+              "ATHI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MACHAKOS",
+      "constituencies": [
+        {
+          "constituency_name": "MASINGA",
+          "wards": [
+            [
+              "371",
+              "KIVAA"
+            ],
+            [
+              "372",
+              "MASINGA CENTRAL"
+            ],
+            [
+              "373",
+              "EKALAKALA"
+            ],
+            [
+              "374",
+              "MUTHESYA"
+            ],
+            [
+              "375",
+              "NDITHINI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "YATTA",
+          "wards": [
+            [
+              "376",
+              "NDALANI"
+            ],
+            [
+              "377",
+              "MATUU"
+            ],
+            [
+              "378",
+              "KITHIMANI"
+            ],
+            [
+              "379",
+              "IKOMBE"
+            ],
+            [
+              "380",
+              "KATANGI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KANGUNDO",
+          "wards": [
+            [
+              "381",
+              "KANGUNDO NORTH"
+            ],
+            [
+              "382",
+              "KANGUNDO CENTRAL"
+            ],
+            [
+              "383",
+              "KANGUNDO EAST"
+            ],
+            [
+              "384",
+              "KANGUNDO WEST"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATUNGULU",
+          "wards": [
+            [
+              "385",
+              "TALA"
+            ],
+            [
+              "386",
+              "MATUNGULU NORTH"
+            ],
+            [
+              "387",
+              "MATUNGULU EAST"
+            ],
+            [
+              "388",
+              "MATUNGULU WEST"
+            ],
+            [
+              "389",
+              "KYELENI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KATHIANI",
+          "wards": [
+            [
+              "390",
+              "MITABONI"
+            ],
+            [
+              "391",
+              "KATHIANI CENTRAL"
+            ],
+            [
+              "392",
+              "UPPER KAEWA/IVETI"
+            ],
+            [
+              "393",
+              "LOWER KAEWA/KAANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MAVOKO",
+          "wards": [
+            [
+              "394",
+              "ATHI RIVER"
+            ],
+            [
+              "395",
+              "KINANIE"
+            ],
+            [
+              "396",
+              "MUTHWANI"
+            ],
+            [
+              "397",
+              "SYOKIMAU/MULOLONGO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MACHAKOS TOWN",
+          "wards": [
+            [
+              "398",
+              "KALAMA"
+            ],
+            [
+              "399",
+              "MUA"
+            ],
+            [
+              "400",
+              "MUTITUNI"
+            ],
+            [
+              "401",
+              "MACHAKOS CENTRAL"
+            ],
+            [
+              "402",
+              "MUMBUNI NORTH"
+            ],
+            [
+              "403",
+              "MUVUTI/KIIMA-KIMWE"
+            ],
+            [
+              "404",
+              "KOLA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MWALA",
+          "wards": [
+            [
+              "405",
+              "MBIUNI"
+            ],
+            [
+              "406",
+              "MAKUTANO/ MWALA"
+            ],
+            [
+              "407",
+              "MASII"
+            ],
+            [
+              "408",
+              "MUTHETHENI"
+            ],
+            [
+              "409",
+              "WAMUNYU"
+            ],
+            [
+              "410",
+              "KIBAUNI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MAKUENI",
+      "constituencies": [
+        {
+          "constituency_name": "MBOONI",
+          "wards": [
+            [
+              "411",
+              "TULIMANI"
+            ],
+            [
+              "412",
+              "MBOONI"
+            ],
+            [
+              "413",
+              "KITHUNGO/KITUNDU"
+            ],
+            [
+              "414",
+              "KISAU/KITETA"
+            ],
+            [
+              "415",
+              "WAIA/KAKO"
+            ],
+            [
+              "416",
+              "KALAWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KILOME",
+          "wards": [
+            [
+              "417",
+              "KASIKEU"
+            ],
+            [
+              "418",
+              "MUKAA"
+            ],
+            [
+              "419",
+              "KIIMA KIU/KALANZONI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAITI",
+          "wards": [
+            [
+              "420",
+              "UKIA"
+            ],
+            [
+              "421",
+              "KEE"
+            ],
+            [
+              "422",
+              "KILUNGU"
+            ],
+            [
+              "423",
+              "ILIMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MAKUENI",
+          "wards": [
+            [
+              "424",
+              "WOTE"
+            ],
+            [
+              "425",
+              "MUVAU/KIKUUMINI"
+            ],
+            [
+              "426",
+              "MAVINDINI"
+            ],
+            [
+              "427",
+              "KITISE/KITHUKI"
+            ],
+            [
+              "428",
+              "KATHONZWENI"
+            ],
+            [
+              "429",
+              "NZAUI/KILILI/KALAMBA"
+            ],
+            [
+              "430",
+              "MBITINI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIBWEZI WEST",
+          "wards": [
+            [
+              "431",
+              "MAKINDU"
+            ],
+            [
+              "432",
+              "NGUUMO"
+            ],
+            [
+              "433",
+              "KIKUMBULYU NORTH"
+            ],
+            [
+              "434",
+              "KIKUMBULYU SOUTH"
+            ],
+            [
+              "435",
+              "NGUU/MASUMBA"
+            ],
+            [
+              "436",
+              "EMALI/MULALA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIBWEZI EAST",
+          "wards": [
+            [
+              "437",
+              "MASONGALENI"
+            ],
+            [
+              "438",
+              "MTITO ANDEI"
+            ],
+            [
+              "439",
+              "THANGE"
+            ],
+            [
+              "440",
+              "IVINGONI/NZAMBANI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NYANDARUA",
+      "constituencies": [
+        {
+          "constituency_name": "KINANGOP",
+          "wards": [
+            [
+              "441",
+              "ENGINEER"
+            ],
+            [
+              "442",
+              "GATHARA"
+            ],
+            [
+              "443",
+              "NORTH KINANGOP"
+            ],
+            [
+              "444",
+              "MURUNGARU"
+            ],
+            [
+              "445",
+              "NJABINI\\KIBURU"
+            ],
+            [
+              "446",
+              "NYAKIO"
+            ],
+            [
+              "447",
+              "GITHABAI"
+            ],
+            [
+              "448",
+              "MAGUMU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIPIPIRI",
+          "wards": [
+            [
+              "449",
+              "WANJOHI"
+            ],
+            [
+              "450",
+              "KIPIPIRI"
+            ],
+            [
+              "451",
+              "GETA"
+            ],
+            [
+              "452",
+              "GITHIORO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "OL KALOU",
+          "wards": [
+            [
+              "453",
+              "KARAU"
+            ],
+            [
+              "454",
+              "KANJUIRI RIDGE"
+            ],
+            [
+              "455",
+              "MIRANGINE"
+            ],
+            [
+              "456",
+              "KAIMBAGA"
+            ],
+            [
+              "457",
+              "RURII"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "OL JOROK",
+          "wards": [
+            [
+              "458",
+              "GATHANJI"
+            ],
+            [
+              "459",
+              "GATIMU"
+            ],
+            [
+              "460",
+              "WERU"
+            ],
+            [
+              "461",
+              "CHARAGITA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NDARAGWA",
+          "wards": [
+            [
+              "462",
+              "LESHAU PONDO"
+            ],
+            [
+              "463",
+              "KIRIITA"
+            ],
+            [
+              "464",
+              "CENTRAL"
+            ],
+            [
+              "465",
+              "SHAMATA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NYERI",
+      "constituencies": [
+        {
+          "constituency_name": "TETU",
+          "wards": [
+            [
+              "466",
+              "DEDAN KIMANTHI"
+            ],
+            [
+              "467",
+              "WAMAGANA"
+            ],
+            [
+              "468",
+              "AGUTHI/GAAKI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIENI",
+          "wards": [
+            [
+              "469",
+              "MWEIGA"
+            ],
+            [
+              "470",
+              "NAROMORU KIAMATHAGA"
+            ],
+            [
+              "471",
+              "MWIYOGO/ENDARASHA"
+            ],
+            [
+              "472",
+              "MUGUNDA"
+            ],
+            [
+              "473",
+              "GATARAKWA"
+            ],
+            [
+              "474",
+              "THEGU RIVER"
+            ],
+            [
+              "475",
+              "KABARU"
+            ],
+            [
+              "476",
+              "GAKAWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATHIRA",
+          "wards": [
+            [
+              "477",
+              "RUGURU"
+            ],
+            [
+              "478",
+              "MAGUTU"
+            ],
+            [
+              "479",
+              "IRIAINI"
+            ],
+            [
+              "480",
+              "KONYU"
+            ],
+            [
+              "481",
+              "KIRIMUKUYU"
+            ],
+            [
+              "482",
+              "KARATINA TOWN"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "OTHAYA",
+          "wards": [
+            [
+              "483",
+              "MAHIGA"
+            ],
+            [
+              "484",
+              "IRIA-INI"
+            ],
+            [
+              "485",
+              "CHINGA"
+            ],
+            [
+              "486",
+              "KARIMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MUKURWEINI",
+          "wards": [
+            [
+              "487",
+              "GIKONDI"
+            ],
+            [
+              "488",
+              "RUGI"
+            ],
+            [
+              "489",
+              "MUKURWE-INI WEST"
+            ],
+            [
+              "490",
+              "MUKURWE-INI CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYERI TOWN",
+          "wards": [
+            [
+              "491",
+              "KIGANJO/MATHARI"
+            ],
+            [
+              "492",
+              "RWARE"
+            ],
+            [
+              "493",
+              "GATITU/MURUGURU"
+            ],
+            [
+              "494",
+              "RURING'U"
+            ],
+            [
+              "495",
+              "KAMAKWA/MUKARO"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KIRINYAGA",
+      "constituencies": [
+        {
+          "constituency_name": "MWEA",
+          "wards": [
+            [
+              "496",
+              "MUTITHI"
+            ],
+            [
+              "497",
+              "KANGAI"
+            ],
+            [
+              "498",
+              "THIBA"
+            ],
+            [
+              "499",
+              "WAMUMU"
+            ],
+            [
+              "500",
+              "NYANGATI"
+            ],
+            [
+              "501",
+              "MURINDUKO"
+            ],
+            [
+              "502",
+              "GATHIGIRIRI"
+            ],
+            [
+              "503",
+              "TEBERE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GICHUGU",
+          "wards": [
+            [
+              "504",
+              "KABARE"
+            ],
+            [
+              "505",
+              "BARAGWI"
+            ],
+            [
+              "506",
+              "NJUKIINI"
+            ],
+            [
+              "507",
+              "NGARIAMA"
+            ],
+            [
+              "508",
+              "KARUMANDI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NDIA",
+          "wards": [
+            [
+              "509",
+              "MUKURE"
+            ],
+            [
+              "510",
+              "KIINE"
+            ],
+            [
+              "511",
+              "KARITI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIRINYAGA CENTRAL",
+          "wards": [
+            [
+              "512",
+              "MUTIRA"
+            ],
+            [
+              "513",
+              "KANYEKI-INI"
+            ],
+            [
+              "514",
+              "KERUGOYA"
+            ],
+            [
+              "515",
+              "INOI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MURANG'A",
+      "constituencies": [
+        {
+          "constituency_name": "KANGEMA",
+          "wards": [
+            [
+              "516",
+              "KANYENYAINI"
+            ],
+            [
+              "517",
+              "MUGURU"
+            ],
+            [
+              "518",
+              "RWATHIA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATHIOYA",
+          "wards": [
+            [
+              "519",
+              "GITUGI"
+            ],
+            [
+              "520",
+              "KIRU"
+            ],
+            [
+              "521",
+              "KAMACHARIA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIHARU",
+          "wards": [
+            [
+              "522",
+              "WANGU"
+            ],
+            [
+              "523",
+              "MUGOIRI"
+            ],
+            [
+              "524",
+              "MBIRI"
+            ],
+            [
+              "525",
+              "TOWNSHIP"
+            ],
+            [
+              "526",
+              "MURARANDIA"
+            ],
+            [
+              "527",
+              "GATURI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIGUMO",
+          "wards": [
+            [
+              "528",
+              "KAHUMBU"
+            ],
+            [
+              "529",
+              "MUTHITHI"
+            ],
+            [
+              "530",
+              "KIGUMO"
+            ],
+            [
+              "531",
+              "KANGARI"
+            ],
+            [
+              "532",
+              "KINYONA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MARAGWA",
+          "wards": [
+            [
+              "533",
+              "KIMORORI/WEMPA"
+            ],
+            [
+              "534",
+              "MAKUYU"
+            ],
+            [
+              "535",
+              "KAMBITI"
+            ],
+            [
+              "536",
+              "KAMAHUHA"
+            ],
+            [
+              "537",
+              "ICHAGAKI"
+            ],
+            [
+              "538",
+              "NGINDA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KANDARA",
+          "wards": [
+            [
+              "539",
+              "NG'ARARIA"
+            ],
+            [
+              "540",
+              "MURUKA"
+            ],
+            [
+              "541",
+              "KAGUNDU-INI"
+            ],
+            [
+              "542",
+              "GAICHANJIRU"
+            ],
+            [
+              "543",
+              "ITHIRU"
+            ],
+            [
+              "544",
+              "RUCHU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GATANGA",
+          "wards": [
+            [
+              "545",
+              "ITHANGA"
+            ],
+            [
+              "546",
+              "KAKUZI/MITUBIRI"
+            ],
+            [
+              "547",
+              "MUGUMO-INI"
+            ],
+            [
+              "548",
+              "KIHUMBU-INI"
+            ],
+            [
+              "549",
+              "GATANGA"
+            ],
+            [
+              "550",
+              "KARIARA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KIAMBU",
+      "constituencies": [
+        {
+          "constituency_name": "GATUNDU SOUTH",
+          "wards": [
+            [
+              "551",
+              "KIAMWANGI"
+            ],
+            [
+              "552",
+              "KIGANJO"
+            ],
+            [
+              "553",
+              "NDARUGU"
+            ],
+            [
+              "554",
+              "NGENDA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GATUNDU NORTH",
+          "wards": [
+            [
+              "555",
+              "GITUAMBA"
+            ],
+            [
+              "556",
+              "GITHOBOKONI"
+            ],
+            [
+              "557",
+              "CHANIA"
+            ],
+            [
+              "558",
+              "MANG'U"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "JUJA",
+          "wards": [
+            [
+              "559",
+              "MURERA"
+            ],
+            [
+              "560",
+              "THETA"
+            ],
+            [
+              "561",
+              "JUJA"
+            ],
+            [
+              "562",
+              "WITEITHIE"
+            ],
+            [
+              "563",
+              "KALIMONI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "THIKA TOWN",
+          "wards": [
+            [
+              "564",
+              "TOWNSHIP"
+            ],
+            [
+              "565",
+              "KAMENU"
+            ],
+            [
+              "566",
+              "HOSPITAL"
+            ],
+            [
+              "567",
+              "GATUANYAGA"
+            ],
+            [
+              "568",
+              "NGOLIBA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RUIRU",
+          "wards": [
+            [
+              "569",
+              "GITOTHUA"
+            ],
+            [
+              "570",
+              "BIASHARA"
+            ],
+            [
+              "571",
+              "GATONGORA"
+            ],
+            [
+              "572",
+              "KAHAWA SUKARI"
+            ],
+            [
+              "573",
+              "KAHAWA WENDANI"
+            ],
+            [
+              "574",
+              "KIUU"
+            ],
+            [
+              "575",
+              "MWIKI"
+            ],
+            [
+              "576",
+              "MWIHOKO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GITHUNGURI",
+          "wards": [
+            [
+              "577",
+              "GITHUNGURI"
+            ],
+            [
+              "578",
+              "GITHIGA"
+            ],
+            [
+              "579",
+              "IKINU"
+            ],
+            [
+              "580",
+              "NGEWA"
+            ],
+            [
+              "581",
+              "KOMOTHAI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIAMBU",
+          "wards": [
+            [
+              "582",
+              "TING'ANG'A"
+            ],
+            [
+              "583",
+              "NDUMBERI"
+            ],
+            [
+              "584",
+              "RIABAI"
+            ],
+            [
+              "585",
+              "TOWNSHIP"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIAMBAA",
+          "wards": [
+            [
+              "586",
+              "CIANDA"
+            ],
+            [
+              "587",
+              "KARURI"
+            ],
+            [
+              "588",
+              "NDENDERU"
+            ],
+            [
+              "589",
+              "MUCHATHA"
+            ],
+            [
+              "590",
+              "KIHARA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KABETE",
+          "wards": [
+            [
+              "591",
+              "GITARU"
+            ],
+            [
+              "592",
+              "MUGUGA"
+            ],
+            [
+              "593",
+              "NYADHUNA"
+            ],
+            [
+              "594",
+              "KABETE"
+            ],
+            [
+              "595",
+              "UTHIRU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIKUYU",
+          "wards": [
+            [
+              "596",
+              "KARAI"
+            ],
+            [
+              "597",
+              "NACHU"
+            ],
+            [
+              "598",
+              "SIGONA"
+            ],
+            [
+              "599",
+              "KIKUYU"
+            ],
+            [
+              "600",
+              "KINOO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LIMURU",
+          "wards": [
+            [
+              "601",
+              "BIBIRIONI"
+            ],
+            [
+              "602",
+              "LIMURU CENTRAL"
+            ],
+            [
+              "603",
+              "NDEIYA"
+            ],
+            [
+              "604",
+              "LIMURU EAST"
+            ],
+            [
+              "605",
+              "NGECHA TIGONI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LARI",
+          "wards": [
+            [
+              "606",
+              "KINALE"
+            ],
+            [
+              "607",
+              "KIJABE"
+            ],
+            [
+              "608",
+              "NYANDUMA"
+            ],
+            [
+              "609",
+              "KAMBURU"
+            ],
+            [
+              "610",
+              "LARI/KIRENGA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "TURKANA",
+      "constituencies": [
+        {
+          "constituency_name": "TURKANA NORTH",
+          "wards": [
+            [
+              "611",
+              "KAERIS"
+            ],
+            [
+              "612",
+              "LAKE ZONE"
+            ],
+            [
+              "613",
+              "LAPUR"
+            ],
+            [
+              "614",
+              "KAALENG/KAIKOR"
+            ],
+            [
+              "615",
+              "KIBISH"
+            ],
+            [
+              "616",
+              "NAKALALE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TURKANA WEST",
+          "wards": [
+            [
+              "617",
+              "KAKUMA"
+            ],
+            [
+              "618",
+              "LOPUR"
+            ],
+            [
+              "619",
+              "LETEA"
+            ],
+            [
+              "620",
+              "SONGOT"
+            ],
+            [
+              "621",
+              "KALOBEYEI"
+            ],
+            [
+              "622",
+              "LOKICHOGGIO"
+            ],
+            [
+              "623",
+              "NANAAM"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TURKANA CENTRAL",
+          "wards": [
+            [
+              "624",
+              "KERIO DELTA"
+            ],
+            [
+              "625",
+              "KANG'ATOTHA"
+            ],
+            [
+              "626",
+              "KALOKOL"
+            ],
+            [
+              "627",
+              "LODWAR TOWNSHIP"
+            ],
+            [
+              "628",
+              "KANAMKEMER"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LOIMA",
+          "wards": [
+            [
+              "629",
+              "KOTARUK/LOBEI"
+            ],
+            [
+              "630",
+              "TURKWEL"
+            ],
+            [
+              "631",
+              "LOIMA"
+            ],
+            [
+              "632",
+              "LOKIRIAMA/LORENGIPPI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TURKANA SOUTH",
+          "wards": [
+            [
+              "633",
+              "KAPUTIR"
+            ],
+            [
+              "634",
+              "KATILU"
+            ],
+            [
+              "635",
+              "LOBOKAT"
+            ],
+            [
+              "636",
+              "KALAPATA"
+            ],
+            [
+              "637",
+              "LOKICHAR"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TURKANA EAST",
+          "wards": [
+            [
+              "638",
+              "KAPEDO/NAPEITOM"
+            ],
+            [
+              "639",
+              "KATILIA"
+            ],
+            [
+              "640",
+              "LOKORI/KOCHODIN"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "WEST POKOT",
+      "constituencies": [
+        {
+          "constituency_name": "KAPENGURIA",
+          "wards": [
+            [
+              "641",
+              "RIWO"
+            ],
+            [
+              "642",
+              "KAPENGURIA"
+            ],
+            [
+              "643",
+              "MNAGEI"
+            ],
+            [
+              "644",
+              "SIYOI"
+            ],
+            [
+              "645",
+              "ENDUGH"
+            ],
+            [
+              "646",
+              "SOOK"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SIGOR",
+          "wards": [
+            [
+              "647",
+              "SEKERR"
+            ],
+            [
+              "648",
+              "MASOOL"
+            ],
+            [
+              "649",
+              "LOMUT"
+            ],
+            [
+              "650",
+              "WEIWEI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KACHELIBA",
+          "wards": [
+            [
+              "651",
+              "SUAM"
+            ],
+            [
+              "652",
+              "KODICH"
+            ],
+            [
+              "653",
+              "KAPCKOK"
+            ],
+            [
+              "654",
+              "KASEI"
+            ],
+            [
+              "655",
+              "KIWAWA"
+            ],
+            [
+              "656",
+              "ALALE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "POKOT SOUTH",
+          "wards": [
+            [
+              "657",
+              "CHEPARERIA"
+            ],
+            [
+              "658",
+              "BATEI"
+            ],
+            [
+              "659",
+              "LELAN"
+            ],
+            [
+              "660",
+              "TAPACH"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "SAMBURU",
+      "constituencies": [
+        {
+          "constituency_name": "SAMBURU WEST",
+          "wards": [
+            [
+              "661",
+              "LODOKEJEK"
+            ],
+            [
+              "662",
+              "SUGUTA MARMAR"
+            ],
+            [
+              "663",
+              "MARALAL"
+            ],
+            [
+              "664",
+              "LOOSUK"
+            ],
+            [
+              "665",
+              "PORO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SAMBURU NORTH",
+          "wards": [
+            [
+              "666",
+              "EL-BARTA"
+            ],
+            [
+              "667",
+              "NACHOLA"
+            ],
+            [
+              "668",
+              "NDOTO"
+            ],
+            [
+              "669",
+              "NYIRO"
+            ],
+            [
+              "670",
+              "ANGATA NANYOKIE"
+            ],
+            [
+              "671",
+              "BAAWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SAMBURU EAST",
+          "wards": [
+            [
+              "672",
+              "WASO"
+            ],
+            [
+              "673",
+              "WAMBA WEST"
+            ],
+            [
+              "674",
+              "WAMBA EAST"
+            ],
+            [
+              "675",
+              "WAMBA NORTH"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "TRANS NZOIA",
+      "constituencies": [
+        {
+          "constituency_name": "KWANZA",
+          "wards": [
+            [
+              "676",
+              "KAPOMBOI"
+            ],
+            [
+              "677",
+              "KWANZA"
+            ],
+            [
+              "678",
+              "KEIYO"
+            ],
+            [
+              "679",
+              "BIDII"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ENDEBESS",
+          "wards": [
+            [
+              "680",
+              "CHEPCHOINA"
+            ],
+            [
+              "681",
+              "ENDEBESS"
+            ],
+            [
+              "682",
+              "MATUMBEI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SABOTI",
+          "wards": [
+            [
+              "683",
+              "KINYORO"
+            ],
+            [
+              "684",
+              "MATISI"
+            ],
+            [
+              "685",
+              "TUWANI"
+            ],
+            [
+              "686",
+              "SABOTI"
+            ],
+            [
+              "687",
+              "MACHEWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIMININI",
+          "wards": [
+            [
+              "688",
+              "KIMININI"
+            ],
+            [
+              "689",
+              "WAITALUK"
+            ],
+            [
+              "690",
+              "SIRENDE"
+            ],
+            [
+              "691",
+              "HOSPITAL"
+            ],
+            [
+              "692",
+              "SIKHENDU"
+            ],
+            [
+              "693",
+              "NABISWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "CHERANGANY",
+          "wards": [
+            [
+              "694",
+              "SINYERERE"
+            ],
+            [
+              "695",
+              "MAKUTANO"
+            ],
+            [
+              "696",
+              "KAPLAMAI"
+            ],
+            [
+              "697",
+              "MOTOSIET"
+            ],
+            [
+              "698",
+              "CHERANGANY/SUWERWA"
+            ],
+            [
+              "699",
+              "CHEPSIRO/KIPTOROR"
+            ],
+            [
+              "700",
+              "SITATUNGA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "UASIN GISHU",
+      "constituencies": [
+        {
+          "constituency_name": "SOY",
+          "wards": [
+            [
+              "701",
+              "MOI'S BRIDGE"
+            ],
+            [
+              "702",
+              "KAPKURES"
+            ],
+            [
+              "703",
+              "ZIWA"
+            ],
+            [
+              "704",
+              "SEGERO/BARSOMBE"
+            ],
+            [
+              "705",
+              "KIPSOMBA"
+            ],
+            [
+              "706",
+              "SOY"
+            ],
+            [
+              "707",
+              "KUINET/KAPSUSWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TURBO",
+          "wards": [
+            [
+              "708",
+              "NGENYILEL"
+            ],
+            [
+              "709",
+              "TAPSAGOI"
+            ],
+            [
+              "710",
+              "KAMAGUT"
+            ],
+            [
+              "711",
+              "KIPLOMBE"
+            ],
+            [
+              "712",
+              "KAPSAOS"
+            ],
+            [
+              "713",
+              "HURUMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MOIBEN",
+          "wards": [
+            [
+              "714",
+              "TEMBELIO"
+            ],
+            [
+              "715",
+              "SERGOIT"
+            ],
+            [
+              "716",
+              "KARUNA/MEIBEKI"
+            ],
+            [
+              "717",
+              "MOIBEN"
+            ],
+            [
+              "718",
+              "KIMUMU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "AINABKOI",
+          "wards": [
+            [
+              "719",
+              "KAPSOYA"
+            ],
+            [
+              "720",
+              "KAPTAGAT"
+            ],
+            [
+              "721",
+              "AINABKOI/OLARE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAPSERET",
+          "wards": [
+            [
+              "722",
+              "SIMAT/KAPSERET"
+            ],
+            [
+              "723",
+              "KIPKENYO"
+            ],
+            [
+              "724",
+              "NGERIA"
+            ],
+            [
+              "725",
+              "MEGUN"
+            ],
+            [
+              "726",
+              "LANGAS"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KESSES",
+          "wards": [
+            [
+              "727",
+              "RACECOURSE"
+            ],
+            [
+              "728",
+              "CHEPTIRET/KIPCHAMO"
+            ],
+            [
+              "729",
+              "TULWET/CHUIYAT"
+            ],
+            [
+              "730",
+              "TARAKWA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "ELGEYO/MARAKWET",
+      "constituencies": [
+        {
+          "constituency_name": "MARAKWET EAST",
+          "wards": [
+            [
+              "731",
+              "KAPYEGO"
+            ],
+            [
+              "732",
+              "SAMBIRIR"
+            ],
+            [
+              "733",
+              "ENDO"
+            ],
+            [
+              "734",
+              "EMBOBUT / EMBULOT"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MARAKWET WEST",
+          "wards": [
+            [
+              "735",
+              "LELAN"
+            ],
+            [
+              "736",
+              "SENGWER"
+            ],
+            [
+              "737",
+              "CHERANG'ANY/CHEBORORWA"
+            ],
+            [
+              "738",
+              "MOIBEN/KUSERWO"
+            ],
+            [
+              "739",
+              "KAPSOWAR"
+            ],
+            [
+              "740",
+              "ARROR"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KEIYO NORTH",
+          "wards": [
+            [
+              "741",
+              "EMSOO"
+            ],
+            [
+              "742",
+              "KAMARINY"
+            ],
+            [
+              "743",
+              "KAPCHEMUTWA"
+            ],
+            [
+              "744",
+              "TAMBACH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KEIYO SOUTH",
+          "wards": [
+            [
+              "745",
+              "KAPTARAKWA"
+            ],
+            [
+              "746",
+              "CHEPKORIO"
+            ],
+            [
+              "747",
+              "SOY NORTH"
+            ],
+            [
+              "748",
+              "SOY SOUTH"
+            ],
+            [
+              "749",
+              "KABIEMIT"
+            ],
+            [
+              "750",
+              "METKEI"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NANDI",
+      "constituencies": [
+        {
+          "constituency_name": "TINDERET",
+          "wards": [
+            [
+              "751",
+              "SONGHOR/SOBA"
+            ],
+            [
+              "752",
+              "TINDIRET"
+            ],
+            [
+              "753",
+              "CHEMELIL/CHEMASE"
+            ],
+            [
+              "754",
+              "KAPSIMOTWO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ALDAI",
+          "wards": [
+            [
+              "755",
+              "KABWARENG"
+            ],
+            [
+              "756",
+              "TERIK"
+            ],
+            [
+              "757",
+              "KEMELOI-MARABA"
+            ],
+            [
+              "758",
+              "KOBUJOI"
+            ],
+            [
+              "759",
+              "KAPTUMO-KABOI"
+            ],
+            [
+              "760",
+              "KOYO-NDURIO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NANDI HILLS",
+          "wards": [
+            [
+              "761",
+              "NANDI HILLS"
+            ],
+            [
+              "762",
+              "CHEPKUNYUK"
+            ],
+            [
+              "763",
+              "OL'LESSOS"
+            ],
+            [
+              "764",
+              "KAPCHORUA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "CHESUMEI",
+          "wards": [
+            [
+              "765",
+              "CHEMUNDU/KAPNG'ETUNY"
+            ],
+            [
+              "766",
+              "KOSIRAI"
+            ],
+            [
+              "767",
+              "LELMOKWO/NGECHEK"
+            ],
+            [
+              "768",
+              "KAPTEL/KAMOIYWO"
+            ],
+            [
+              "769",
+              "KIPTUYA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMGWEN",
+          "wards": [
+            [
+              "770",
+              "CHEPKUMIA"
+            ],
+            [
+              "771",
+              "KAPKANGANI"
+            ],
+            [
+              "772",
+              "KAPSABET"
+            ],
+            [
+              "773",
+              "KILIBWONI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MOSOP",
+          "wards": [
+            [
+              "774",
+              "CHEPTERWAI"
+            ],
+            [
+              "775",
+              "KIPKAREN"
+            ],
+            [
+              "776",
+              "KURGUNG/SURUNGAI"
+            ],
+            [
+              "777",
+              "KABIYET"
+            ],
+            [
+              "778",
+              "NDALAT"
+            ],
+            [
+              "779",
+              "KABISAGA"
+            ],
+            [
+              "780",
+              "SANGALO/KEBULONIK"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "BARINGO",
+      "constituencies": [
+        {
+          "constituency_name": "TIATY",
+          "wards": [
+            [
+              "781",
+              "TIRIOKO"
+            ],
+            [
+              "782",
+              "KOLOWA"
+            ],
+            [
+              "783",
+              "RIBKWO"
+            ],
+            [
+              "784",
+              "SILALE"
+            ],
+            [
+              "785",
+              "LOIYAMOROCK"
+            ],
+            [
+              "786",
+              "TANGULBEI/KOROSSI"
+            ],
+            [
+              "787",
+              "CHURO/AMAYA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BARINGO  NORTH",
+          "wards": [
+            [
+              "788",
+              "BARWESSA"
+            ],
+            [
+              "789",
+              "KABARTONJO"
+            ],
+            [
+              "790",
+              "SAIMO/KIPSARAMAN"
+            ],
+            [
+              "791",
+              "SAIMO/SOI"
+            ],
+            [
+              "792",
+              "BARTABWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BARINGO CENTRAL",
+          "wards": [
+            [
+              "793",
+              "KABARNET"
+            ],
+            [
+              "794",
+              "SACHO"
+            ],
+            [
+              "795",
+              "TENGES"
+            ],
+            [
+              "796",
+              "EWALEL CHAPCHAP"
+            ],
+            [
+              "797",
+              "KAPROPITA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BARINGO SOUTH",
+          "wards": [
+            [
+              "798",
+              "MARIGAT"
+            ],
+            [
+              "799",
+              "ILCHAMUS"
+            ],
+            [
+              "800",
+              "MOCHONGOI"
+            ],
+            [
+              "801",
+              "MUKUTANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MOGOTIO",
+          "wards": [
+            [
+              "802",
+              "MOGOTIO"
+            ],
+            [
+              "803",
+              "EMINING"
+            ],
+            [
+              "804",
+              "KISANANA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ELDAMA RAVINE",
+          "wards": [
+            [
+              "805",
+              "LEMBUS"
+            ],
+            [
+              "806",
+              "LEMBUS KWEN"
+            ],
+            [
+              "807",
+              "RAVINE"
+            ],
+            [
+              "808",
+              "MUMBERES/MAJI MAZURI"
+            ],
+            [
+              "809",
+              "LEMBUS/PERKERRA"
+            ],
+            [
+              "810",
+              "KOIBATEK"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "LAIKIPIA",
+      "constituencies": [
+        {
+          "constituency_name": "LAIKIPIA WEST",
+          "wards": [
+            [
+              "811",
+              "OLMORAN"
+            ],
+            [
+              "812",
+              "RUMURUTI TOWNSHIP"
+            ],
+            [
+              "813",
+              "KINAMBA"
+            ],
+            [
+              "814",
+              "MARMANET"
+            ],
+            [
+              "815",
+              "IGWAMITI"
+            ],
+            [
+              "816",
+              "SALAMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LAIKIPIA EAST",
+          "wards": [
+            [
+              "817",
+              "NGOBIT"
+            ],
+            [
+              "818",
+              "TIGITHI"
+            ],
+            [
+              "819",
+              "THINGITHU"
+            ],
+            [
+              "820",
+              "NANYUKI"
+            ],
+            [
+              "821",
+              "UMANDE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LAIKIPIA NORTH",
+          "wards": [
+            [
+              "822",
+              "SOSIAN"
+            ],
+            [
+              "823",
+              "SEGERA"
+            ],
+            [
+              "824",
+              "MUKOGONDO WEST"
+            ],
+            [
+              "825",
+              "MUKOGONDO EAST"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NAKURU",
+      "constituencies": [
+        {
+          "constituency_name": "MOLO",
+          "wards": [
+            [
+              "826",
+              "MARIASHONI"
+            ],
+            [
+              "827",
+              "ELBURGON"
+            ],
+            [
+              "828",
+              "TURI"
+            ],
+            [
+              "829",
+              "MOLO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NJORO",
+          "wards": [
+            [
+              "830",
+              "MAUNAROK"
+            ],
+            [
+              "831",
+              "MAUCHE"
+            ],
+            [
+              "832",
+              "KIHINGO"
+            ],
+            [
+              "833",
+              "NESSUIT"
+            ],
+            [
+              "834",
+              "LARE"
+            ],
+            [
+              "835",
+              "NJORO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAIVASHA",
+          "wards": [
+            [
+              "836",
+              "BIASHARA"
+            ],
+            [
+              "837",
+              "HELLS GATE"
+            ],
+            [
+              "838",
+              "LAKEVIEW"
+            ],
+            [
+              "839",
+              "MAAI-MAHIU"
+            ],
+            [
+              "840",
+              "MAIELLA"
+            ],
+            [
+              "841",
+              "OLKARIA"
+            ],
+            [
+              "842",
+              "NAIVASHA EAST"
+            ],
+            [
+              "843",
+              "VIWANDANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GILGIL",
+          "wards": [
+            [
+              "844",
+              "GILGIL"
+            ],
+            [
+              "845",
+              "ELEMENTAITA"
+            ],
+            [
+              "846",
+              "MBARUK/EBURU"
+            ],
+            [
+              "847",
+              "MALEWA WEST"
+            ],
+            [
+              "848",
+              "MURINDATI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KURESOI SOUTH",
+          "wards": [
+            [
+              "849",
+              "AMALO"
+            ],
+            [
+              "850",
+              "KERINGET"
+            ],
+            [
+              "851",
+              "KIPTAGICH"
+            ],
+            [
+              "852",
+              "TINET"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KURESOI NORTH",
+          "wards": [
+            [
+              "853",
+              "KIPTORORO"
+            ],
+            [
+              "854",
+              "NYOTA"
+            ],
+            [
+              "855",
+              "SIRIKWA"
+            ],
+            [
+              "856",
+              "KAMARA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SUBUKIA",
+          "wards": [
+            [
+              "857",
+              "SUBUKIA"
+            ],
+            [
+              "858",
+              "WASEGES"
+            ],
+            [
+              "859",
+              "KABAZI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RONGAI",
+          "wards": [
+            [
+              "860",
+              "MENENGAI WEST"
+            ],
+            [
+              "861",
+              "SOIN"
+            ],
+            [
+              "862",
+              "VISOI"
+            ],
+            [
+              "863",
+              "MOSOP"
+            ],
+            [
+              "864",
+              "SOLAI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BAHATI",
+          "wards": [
+            [
+              "865",
+              "DUNDORI"
+            ],
+            [
+              "866",
+              "KABATINI"
+            ],
+            [
+              "867",
+              "KIAMAINA"
+            ],
+            [
+              "868",
+              "LANET/UMOJA"
+            ],
+            [
+              "869",
+              "BAHATI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAKURU TOWN WEST",
+          "wards": [
+            [
+              "870",
+              "BARUT"
+            ],
+            [
+              "871",
+              "LONDON"
+            ],
+            [
+              "872",
+              "KAPTEMBWO"
+            ],
+            [
+              "873",
+              "KAPKURES"
+            ],
+            [
+              "874",
+              "RHODA"
+            ],
+            [
+              "875",
+              "SHAABAB"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAKURU TOWN EAST",
+          "wards": [
+            [
+              "876",
+              "BIASHARA"
+            ],
+            [
+              "877",
+              "KIVUMBINI"
+            ],
+            [
+              "878",
+              "FLAMINGO"
+            ],
+            [
+              "879",
+              "MENENGAI"
+            ],
+            [
+              "880",
+              "NAKURU EAST"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NAROK",
+      "constituencies": [
+        {
+          "constituency_name": "KILGORIS",
+          "wards": [
+            [
+              "881",
+              "KILGORIS CENTRAL"
+            ],
+            [
+              "882",
+              "KEYIAN"
+            ],
+            [
+              "883",
+              "ANGATA BARIKOI"
+            ],
+            [
+              "884",
+              "SHANKOE"
+            ],
+            [
+              "885",
+              "KIMINTET"
+            ],
+            [
+              "886",
+              "LOLGORIAN"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMURUA DIKIRR",
+          "wards": [
+            [
+              "887",
+              "ILKERIN"
+            ],
+            [
+              "888",
+              "OLOLMASANI"
+            ],
+            [
+              "889",
+              "MOGONDO"
+            ],
+            [
+              "890",
+              "KAPSASIAN"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAROK NORTH",
+          "wards": [
+            [
+              "891",
+              "OLPUSIMORU"
+            ],
+            [
+              "892",
+              "OLOKURTO"
+            ],
+            [
+              "893",
+              "NAROK TOWN"
+            ],
+            [
+              "894",
+              "NKARETA"
+            ],
+            [
+              "895",
+              "OLORROPIL"
+            ],
+            [
+              "896",
+              "MELILI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAROK EAST",
+          "wards": [
+            [
+              "897",
+              "MOSIRO"
+            ],
+            [
+              "898",
+              "ILDAMAT"
+            ],
+            [
+              "899",
+              "KEEKONYOKIE"
+            ],
+            [
+              "900",
+              "SUSWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAROK SOUTH",
+          "wards": [
+            [
+              "901",
+              "MAJIMOTO/NAROOSURA"
+            ],
+            [
+              "902",
+              "OLOLULUNG'A"
+            ],
+            [
+              "903",
+              "MELELO"
+            ],
+            [
+              "904",
+              "LOITA"
+            ],
+            [
+              "905",
+              "SOGOO"
+            ],
+            [
+              "906",
+              "SAGAMIAN"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAROK WEST",
+          "wards": [
+            [
+              "907",
+              "ILMOTIOK"
+            ],
+            [
+              "908",
+              "MARA"
+            ],
+            [
+              "909",
+              "SIANA"
+            ],
+            [
+              "910",
+              "NAIKARRA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KAJIADO",
+      "constituencies": [
+        {
+          "constituency_name": "KAJIADO NORTH",
+          "wards": [
+            [
+              "911",
+              "OLKERI"
+            ],
+            [
+              "912",
+              "ONGATA RONGAI"
+            ],
+            [
+              "913",
+              "NKAIMURUNYA"
+            ],
+            [
+              "914",
+              "OLOOLUA"
+            ],
+            [
+              "915",
+              "NGONG"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAJIADO CENTRAL",
+          "wards": [
+            [
+              "916",
+              "PURKO"
+            ],
+            [
+              "917",
+              "ILDAMAT"
+            ],
+            [
+              "918",
+              "DALALEKUTUK"
+            ],
+            [
+              "919",
+              "MATAPATO NORTH"
+            ],
+            [
+              "920",
+              "MATAPATO SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAJIADO EAST",
+          "wards": [
+            [
+              "921",
+              "KAPUTIEI NORTH"
+            ],
+            [
+              "922",
+              "KITENGELA"
+            ],
+            [
+              "923",
+              "OLOOSIRKON/SHOLINKE"
+            ],
+            [
+              "924",
+              "KENYAWA-POKA"
+            ],
+            [
+              "925",
+              "IMARORO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAJIADO WEST",
+          "wards": [
+            [
+              "926",
+              "KEEKONYOKIE"
+            ],
+            [
+              "927",
+              "ILOODOKILANI"
+            ],
+            [
+              "928",
+              "MAGADI"
+            ],
+            [
+              "929",
+              "EWUASO OONKIDONG'I"
+            ],
+            [
+              "930",
+              "MOSIRO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAJIADO SOUTH",
+          "wards": [
+            [
+              "931",
+              "ENTONET/LENKISIM"
+            ],
+            [
+              "932",
+              "MBIRIKANI/ESELENKEI"
+            ],
+            [
+              "933",
+              "KUKU"
+            ],
+            [
+              "934",
+              "ROMBO"
+            ],
+            [
+              "935",
+              "KIMANA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KERICHO",
+      "constituencies": [
+        {
+          "constituency_name": "KIPKELION EAST",
+          "wards": [
+            [
+              "936",
+              "LONDIANI"
+            ],
+            [
+              "937",
+              "KEDOWA/KIMUGUL"
+            ],
+            [
+              "938",
+              "CHEPSEON"
+            ],
+            [
+              "939",
+              "TENDENO/SORGET"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIPKELION WEST",
+          "wards": [
+            [
+              "940",
+              "KUNYAK"
+            ],
+            [
+              "941",
+              "KAMASIAN"
+            ],
+            [
+              "942",
+              "KIPKELION"
+            ],
+            [
+              "943",
+              "CHILCHILA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "AINAMOI",
+          "wards": [
+            [
+              "944",
+              "KAPSOIT"
+            ],
+            [
+              "945",
+              "AINAMOI"
+            ],
+            [
+              "946",
+              "KAPKUGERWET"
+            ],
+            [
+              "947",
+              "KIPCHEBOR"
+            ],
+            [
+              "948",
+              "KIPCHIMCHIM"
+            ],
+            [
+              "949",
+              "KAPSAOS"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BURETI",
+          "wards": [
+            [
+              "950",
+              "KISIARA"
+            ],
+            [
+              "951",
+              "TEBESONIK"
+            ],
+            [
+              "952",
+              "CHEBOIN"
+            ],
+            [
+              "953",
+              "CHEMOSOT"
+            ],
+            [
+              "954",
+              "LITEIN"
+            ],
+            [
+              "955",
+              "CHEPLANGET"
+            ],
+            [
+              "956",
+              "KAPKATET"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BELGUT",
+          "wards": [
+            [
+              "957",
+              "WALDAI"
+            ],
+            [
+              "958",
+              "KABIANGA"
+            ],
+            [
+              "959",
+              "CHEPTORORIET/SERETUT"
+            ],
+            [
+              "960",
+              "CHAIK"
+            ],
+            [
+              "961",
+              "KAPSUSER"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SIGOWET/SOIN",
+          "wards": [
+            [
+              "962",
+              "SIGOWET"
+            ],
+            [
+              "963",
+              "KAPLELARTET"
+            ],
+            [
+              "964",
+              "SOLIAT"
+            ],
+            [
+              "965",
+              "SOIN"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "BOMET",
+      "constituencies": [
+        {
+          "constituency_name": "SOTIK",
+          "wards": [
+            [
+              "966",
+              "NDANAI/ABOSI"
+            ],
+            [
+              "967",
+              "CHEMAGEL"
+            ],
+            [
+              "968",
+              "KIPSONOI"
+            ],
+            [
+              "969",
+              "KAPLETUNDO"
+            ],
+            [
+              "970",
+              "RONGENA/MANARET"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "CHEPALUNGU",
+          "wards": [
+            [
+              "971",
+              "KONG'ASIS"
+            ],
+            [
+              "972",
+              "NYANGORES"
+            ],
+            [
+              "973",
+              "SIGOR"
+            ],
+            [
+              "974",
+              "CHEBUNYO"
+            ],
+            [
+              "975",
+              "SIONGIROI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BOMET EAST",
+          "wards": [
+            [
+              "976",
+              "MERIGI"
+            ],
+            [
+              "977",
+              "KEMBU"
+            ],
+            [
+              "978",
+              "LONGISA"
+            ],
+            [
+              "979",
+              "KIPRERES"
+            ],
+            [
+              "980",
+              "CHEMANER"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BOMET CENTRAL",
+          "wards": [
+            [
+              "981",
+              "SILIBWET TOWNSHIP"
+            ],
+            [
+              "982",
+              "NDARAWETA"
+            ],
+            [
+              "983",
+              "SINGORWET"
+            ],
+            [
+              "984",
+              "CHESOEN"
+            ],
+            [
+              "985",
+              "MUTARAKWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KONOIN",
+          "wards": [
+            [
+              "986",
+              "CHEPCHABAS"
+            ],
+            [
+              "987",
+              "KIMULOT"
+            ],
+            [
+              "988",
+              "MOGOGOSIEK"
+            ],
+            [
+              "989",
+              "BOITO"
+            ],
+            [
+              "990",
+              "EMBOMOS"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KAKAMEGA",
+      "constituencies": [
+        {
+          "constituency_name": "LUGARI",
+          "wards": [
+            [
+              "991",
+              "MAUTUMA"
+            ],
+            [
+              "992",
+              "LUGARI"
+            ],
+            [
+              "993",
+              "LUMAKANDA"
+            ],
+            [
+              "994",
+              "CHEKALINI"
+            ],
+            [
+              "995",
+              "CHEVAYWA"
+            ],
+            [
+              "996",
+              "LWANDETI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LIKUYANI",
+          "wards": [
+            [
+              "997",
+              "LIKUYANI"
+            ],
+            [
+              "998",
+              "SANGO"
+            ],
+            [
+              "999",
+              "KONGONI"
+            ],
+            [
+              "1000",
+              "NZOIA"
+            ],
+            [
+              "1001",
+              "SINOKO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MALAVA",
+          "wards": [
+            [
+              "1002",
+              "WEST KABRAS"
+            ],
+            [
+              "1003",
+              "CHEMUCHE"
+            ],
+            [
+              "1004",
+              "EAST KABRAS"
+            ],
+            [
+              "1005",
+              "BUTALI/CHEGULO"
+            ],
+            [
+              "1006",
+              "MANDA-SHIVANGA"
+            ],
+            [
+              "1007",
+              "SHIRUGU-MUGAI"
+            ],
+            [
+              "1008",
+              "SOUTH KABRAS"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LURAMBI",
+          "wards": [
+            [
+              "1009",
+              "BUTSOTSO EAST"
+            ],
+            [
+              "1010",
+              "BUTSOTSO SOUTH"
+            ],
+            [
+              "1011",
+              "BUTSOTSO CENTRAL"
+            ],
+            [
+              "1012",
+              "SHEYWE"
+            ],
+            [
+              "1013",
+              "MAHIAKALO"
+            ],
+            [
+              "1014",
+              "SHIRERE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAVAKHOLO",
+          "wards": [
+            [
+              "1015",
+              "INGOSTSE-MATHIA"
+            ],
+            [
+              "1016",
+              "SHINOYI-SHIKOMARI-"
+            ],
+            [
+              "1017",
+              "BUNYALA WEST"
+            ],
+            [
+              "1018",
+              "BUNYALA EAST"
+            ],
+            [
+              "1019",
+              "BUNYALA CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MUMIAS WEST",
+          "wards": [
+            [
+              "1020",
+              "MUMIAS CENTRAL"
+            ],
+            [
+              "1021",
+              "MUMIAS NORTH"
+            ],
+            [
+              "1022",
+              "ETENJE"
+            ],
+            [
+              "1023",
+              "MUSANDA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MUMIAS EAST",
+          "wards": [
+            [
+              "1024",
+              "LUBINU/LUSHEYA"
+            ],
+            [
+              "1025",
+              "ISONGO/MAKUNGA/MALAHA"
+            ],
+            [
+              "1026",
+              "EAST WANGA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATUNGU",
+          "wards": [
+            [
+              "1027",
+              "KOYONZO"
+            ],
+            [
+              "1028",
+              "KHOLERA"
+            ],
+            [
+              "1029",
+              "KHALABA"
+            ],
+            [
+              "1030",
+              "MAYONI"
+            ],
+            [
+              "1031",
+              "NAMAMALI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BUTERE",
+          "wards": [
+            [
+              "1032",
+              "MARAMA WEST"
+            ],
+            [
+              "1033",
+              "MARAMA CENTRAL"
+            ],
+            [
+              "1034",
+              "MARENYO - SHIANDA"
+            ],
+            [
+              "1035",
+              "MARAMA NORTH"
+            ],
+            [
+              "1036",
+              "MARAMA SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KHWISERO",
+          "wards": [
+            [
+              "1037",
+              "KISA NORTH"
+            ],
+            [
+              "1038",
+              "KISA EAST"
+            ],
+            [
+              "1039",
+              "KISA WEST"
+            ],
+            [
+              "1040",
+              "KISA CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SHINYALU",
+          "wards": [
+            [
+              "1041",
+              "ISUKHA NORTH"
+            ],
+            [
+              "1042",
+              "MURHANDA"
+            ],
+            [
+              "1043",
+              "ISUKHA CENTRAL"
+            ],
+            [
+              "1044",
+              "ISUKHA SOUTH"
+            ],
+            [
+              "1045",
+              "ISUKHA EAST"
+            ],
+            [
+              "1046",
+              "ISUKHA WEST"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "IKOLOMANI",
+          "wards": [
+            [
+              "1047",
+              "IDAKHO SOUTH"
+            ],
+            [
+              "1048",
+              "IDAKHO EAST"
+            ],
+            [
+              "1049",
+              "IDAKHO NORTH"
+            ],
+            [
+              "1050",
+              "IDAKHO CENTRAL"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "VIHIGA",
+      "constituencies": [
+        {
+          "constituency_name": "VIHIGA",
+          "wards": [
+            [
+              "1051",
+              "LUGAGA-WAMULUMA"
+            ],
+            [
+              "1052",
+              "SOUTH MARAGOLI"
+            ],
+            [
+              "1053",
+              "CENTRAL MARAGOLI"
+            ],
+            [
+              "1054",
+              "MUNGOMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SABATIA",
+          "wards": [
+            [
+              "1055",
+              "LYADUYWA/IZAVA"
+            ],
+            [
+              "1056",
+              "WEST SABATIA"
+            ],
+            [
+              "1057",
+              "CHAVAKALI"
+            ],
+            [
+              "1058",
+              "NORTH MARAGOLI"
+            ],
+            [
+              "1059",
+              "WODANGA"
+            ],
+            [
+              "1060",
+              "BUSALI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "HAMISI",
+          "wards": [
+            [
+              "1061",
+              "SHIRU"
+            ],
+            [
+              "1062",
+              "MUHUDU"
+            ],
+            [
+              "1063",
+              "SHAMAKHOKHO"
+            ],
+            [
+              "1064",
+              "GISAMBAI"
+            ],
+            [
+              "1065",
+              "BANJA"
+            ],
+            [
+              "1066",
+              "TAMBUA"
+            ],
+            [
+              "1067",
+              "JEPKOYAI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LUANDA",
+          "wards": [
+            [
+              "1068",
+              "LUANDA TOWNSHIP"
+            ],
+            [
+              "1069",
+              "WEMILABI"
+            ],
+            [
+              "1070",
+              "MWIBONA"
+            ],
+            [
+              "1071",
+              "LUANDA SOUTH"
+            ],
+            [
+              "1072",
+              "EMABUNGO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMUHAYA",
+          "wards": [
+            [
+              "1073",
+              "NORTH EAST BUNYORE"
+            ],
+            [
+              "1074",
+              "CENTRAL BUNYORE"
+            ],
+            [
+              "1075",
+              "WEST BUNYORE"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "BUNGOMA",
+      "constituencies": [
+        {
+          "constituency_name": "MT.ELGON",
+          "wards": [
+            [
+              "1076",
+              "CHEPTAIS"
+            ],
+            [
+              "1077",
+              "CHESIKAKI"
+            ],
+            [
+              "1078",
+              "CHEPYUK"
+            ],
+            [
+              "1079",
+              "KAPKATENY"
+            ],
+            [
+              "1080",
+              "KAPTAMA"
+            ],
+            [
+              "1081",
+              "ELGON"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SIRISIA",
+          "wards": [
+            [
+              "1082",
+              "NAMWELA"
+            ],
+            [
+              "1083",
+              "MALAKISI/SOUTH KULISIRU"
+            ],
+            [
+              "1084",
+              "LWANDANYI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KABUCHAI",
+          "wards": [
+            [
+              "1085",
+              "KABUCHAI/CHWELE"
+            ],
+            [
+              "1086",
+              "WEST NALONDO"
+            ],
+            [
+              "1087",
+              "BWAKE/LUUYA"
+            ],
+            [
+              "1088",
+              "MUKUYUNI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BUMULA",
+          "wards": [
+            [
+              "1089",
+              "SOUTH BUKUSU"
+            ],
+            [
+              "1090",
+              "BUMULA"
+            ],
+            [
+              "1091",
+              "KHASOKO"
+            ],
+            [
+              "1092",
+              "KABULA"
+            ],
+            [
+              "1093",
+              "KIMAETI"
+            ],
+            [
+              "1094",
+              "WEST BUKUSU"
+            ],
+            [
+              "1095",
+              "SIBOTI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KANDUYI",
+          "wards": [
+            [
+              "1096",
+              "BUKEMBE WEST"
+            ],
+            [
+              "1097",
+              "BUKEMBE EAST"
+            ],
+            [
+              "1098",
+              "TOWNSHIP"
+            ],
+            [
+              "1099",
+              "KHALABA"
+            ],
+            [
+              "1100",
+              "MUSIKOMA"
+            ],
+            [
+              "1101",
+              "EAST SANG'ALO"
+            ],
+            [
+              "1102",
+              "MARAKARU/TUUTI"
+            ],
+            [
+              "1103",
+              "SANG'ALO WEST"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WEBUYE EAST",
+          "wards": [
+            [
+              "1104",
+              "MIHUU"
+            ],
+            [
+              "1105",
+              "NDIVISI"
+            ],
+            [
+              "1106",
+              "MARAKA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WEBUYE WEST",
+          "wards": [
+            [
+              "1107",
+              "MISIKHU"
+            ],
+            [
+              "1108",
+              "SITIKHO"
+            ],
+            [
+              "1109",
+              "MATULO"
+            ],
+            [
+              "1110",
+              "BOKOLI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIMILILI",
+          "wards": [
+            [
+              "1111",
+              "KIMILILI"
+            ],
+            [
+              "1112",
+              "KIBINGEI"
+            ],
+            [
+              "1113",
+              "MAENI"
+            ],
+            [
+              "1114",
+              "KAMUKUYWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TONGAREN",
+          "wards": [
+            [
+              "1115",
+              "MBAKALO"
+            ],
+            [
+              "1116",
+              "NAITIRI/KABUYEFWE"
+            ],
+            [
+              "1117",
+              "MILIMA"
+            ],
+            [
+              "1118",
+              "NDALU/ TABANI"
+            ],
+            [
+              "1119",
+              "TONGAREN"
+            ],
+            [
+              "1120",
+              "SOYSAMBU/ MITUA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "BUSIA",
+      "constituencies": [
+        {
+          "constituency_name": "TESO NORTH",
+          "wards": [
+            [
+              "1121",
+              "MALABA CENTRAL"
+            ],
+            [
+              "1122",
+              "MALABA NORTH"
+            ],
+            [
+              "1123",
+              "ANG'URAI SOUTH"
+            ],
+            [
+              "1124",
+              "ANG'URAI NORTH"
+            ],
+            [
+              "1125",
+              "ANG'URAI EAST"
+            ],
+            [
+              "1126",
+              "MALABA SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "TESO SOUTH",
+          "wards": [
+            [
+              "1127",
+              "ANG'OROM"
+            ],
+            [
+              "1128",
+              "CHAKOL SOUTH"
+            ],
+            [
+              "1129",
+              "CHAKOL NORTH"
+            ],
+            [
+              "1130",
+              "AMUKURA WEST"
+            ],
+            [
+              "1131",
+              "AMUKURA EAST"
+            ],
+            [
+              "1132",
+              "AMUKURA CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NAMBALE",
+          "wards": [
+            [
+              "1133",
+              "NAMBALE TOWNSHIP"
+            ],
+            [
+              "1134",
+              "BUKHAYO NORTH/WALTSI"
+            ],
+            [
+              "1135",
+              "BUKHAYO EAST"
+            ],
+            [
+              "1136",
+              "BUKHAYO CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATAYOS",
+          "wards": [
+            [
+              "1137",
+              "BUKHAYO WEST"
+            ],
+            [
+              "1138",
+              "MAYENJE"
+            ],
+            [
+              "1139",
+              "MATAYOS SOUTH"
+            ],
+            [
+              "1140",
+              "BUSIBWABO"
+            ],
+            [
+              "1141",
+              "BURUMBA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BUTULA",
+          "wards": [
+            [
+              "1142",
+              "MARACHI WEST"
+            ],
+            [
+              "1143",
+              "KINGANDOLE"
+            ],
+            [
+              "1144",
+              "MARACHI CENTRAL"
+            ],
+            [
+              "1145",
+              "MARACHI EAST"
+            ],
+            [
+              "1146",
+              "MARACHI NORTH"
+            ],
+            [
+              "1147",
+              "ELUGULU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "FUNYULA",
+          "wards": [
+            [
+              "1148",
+              "NAMBOBOTO NAMBUKU"
+            ],
+            [
+              "1149",
+              "NANGINA"
+            ],
+            [
+              "1150",
+              "AGENG'A NANGUBA"
+            ],
+            [
+              "1151",
+              "BWIRI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BUDALANGI",
+          "wards": [
+            [
+              "1152",
+              "BUNYALA CENTRAL"
+            ],
+            [
+              "1153",
+              "BUNYALA NORTH"
+            ],
+            [
+              "1154",
+              "BUNYALA WEST"
+            ],
+            [
+              "1155",
+              "BUNYALA SOUTH"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "SIAYA",
+      "constituencies": [
+        {
+          "constituency_name": "UGENYA",
+          "wards": [
+            [
+              "1156",
+              "WEST UGENYA"
+            ],
+            [
+              "1157",
+              "UKWALA"
+            ],
+            [
+              "1158",
+              "NORTH UGENYA"
+            ],
+            [
+              "1159",
+              "EAST UGENYA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "UGUNJA",
+          "wards": [
+            [
+              "1160",
+              "SIDINDI"
+            ],
+            [
+              "1161",
+              "SIGOMERE"
+            ],
+            [
+              "1162",
+              "UGUNJA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ALEGO USONGA",
+          "wards": [
+            [
+              "1163",
+              "USONGA"
+            ],
+            [
+              "1164",
+              "WEST ALEGO"
+            ],
+            [
+              "1165",
+              "CENTRAL ALEGO"
+            ],
+            [
+              "1166",
+              "SIAYA TOWNSHIP"
+            ],
+            [
+              "1167",
+              "NORTH ALEGO"
+            ],
+            [
+              "1168",
+              "SOUTH EAST ALEGO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "GEM",
+          "wards": [
+            [
+              "1169",
+              "NORTH GEM"
+            ],
+            [
+              "1170",
+              "WEST GEM"
+            ],
+            [
+              "1171",
+              "CENTRAL GEM"
+            ],
+            [
+              "1172",
+              "YALA TOWNSHIP"
+            ],
+            [
+              "1173",
+              "EAST GEM"
+            ],
+            [
+              "1174",
+              "SOUTH GEM"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BONDO",
+          "wards": [
+            [
+              "1175",
+              "WEST YIMBO"
+            ],
+            [
+              "1176",
+              "CENTRAL SAKWA"
+            ],
+            [
+              "1177",
+              "SOUTH SAKWA"
+            ],
+            [
+              "1178",
+              "YIMBO EAST"
+            ],
+            [
+              "1179",
+              "WEST SAKWA"
+            ],
+            [
+              "1180",
+              "NORTH SAKWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RARIEDA",
+          "wards": [
+            [
+              "1181",
+              "EAST ASEMBO"
+            ],
+            [
+              "1182",
+              "WEST ASEMBO"
+            ],
+            [
+              "1183",
+              "NORTH UYOMA"
+            ],
+            [
+              "1184",
+              "SOUTH UYOMA"
+            ],
+            [
+              "1185",
+              "WEST UYOMA"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KISUMU",
+      "constituencies": [
+        {
+          "constituency_name": "KISUMU EAST",
+          "wards": [
+            [
+              "1186",
+              "KAJULU"
+            ],
+            [
+              "1187",
+              "KOLWA EAST"
+            ],
+            [
+              "1188",
+              "MANYATTA 'B'"
+            ],
+            [
+              "1189",
+              "NYALENDA 'A'"
+            ],
+            [
+              "1190",
+              "KOLWA CENTRAL"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KISUMU WEST",
+          "wards": [
+            [
+              "1191",
+              "SOUTH WEST KISUMU"
+            ],
+            [
+              "1192",
+              "CENTRAL KISUMU"
+            ],
+            [
+              "1193",
+              "KISUMU NORTH"
+            ],
+            [
+              "1194",
+              "WEST KISUMU"
+            ],
+            [
+              "1195",
+              "NORTH WEST KISUMU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KISUMU CENTRAL",
+          "wards": [
+            [
+              "1196",
+              "RAILWAYS"
+            ],
+            [
+              "1197",
+              "MIGOSI"
+            ],
+            [
+              "1198",
+              "SHAURIMOYO KALOLENI"
+            ],
+            [
+              "1199",
+              "MARKET MILIMANI"
+            ],
+            [
+              "1200",
+              "KONDELE"
+            ],
+            [
+              "1201",
+              "NYALENDA B"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SEME",
+          "wards": [
+            [
+              "1202",
+              "WEST SEME"
+            ],
+            [
+              "1203",
+              "CENTRAL SEME"
+            ],
+            [
+              "1204",
+              "EAST SEME"
+            ],
+            [
+              "1205",
+              "NORTH SEME"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYANDO",
+          "wards": [
+            [
+              "1206",
+              "EAST KANO/WAWIDHI"
+            ],
+            [
+              "1207",
+              "AWASI/ONJIKO"
+            ],
+            [
+              "1208",
+              "AHERO"
+            ],
+            [
+              "1209",
+              "KABONYO/KANYAGWAL"
+            ],
+            [
+              "1210",
+              "KOBURA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MUHORONI",
+          "wards": [
+            [
+              "1211",
+              "MIWANI"
+            ],
+            [
+              "1212",
+              "OMBEYI"
+            ],
+            [
+              "1213",
+              "MASOGO/NYANG'OMA"
+            ],
+            [
+              "1214",
+              "CHEMELIL"
+            ],
+            [
+              "1215",
+              "MUHORONI/KORU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYAKACH",
+          "wards": [
+            [
+              "1216",
+              "SOUTH WEST NYAKACH"
+            ],
+            [
+              "1217",
+              "NORTH NYAKACH"
+            ],
+            [
+              "1218",
+              "CENTRAL NYAKACH"
+            ],
+            [
+              "1219",
+              "WEST NYAKACH"
+            ],
+            [
+              "1220",
+              "SOUTH EAST NYAKACH"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "HOMA BAY",
+      "constituencies": [
+        {
+          "constituency_name": "KASIPUL",
+          "wards": [
+            [
+              "1221",
+              "WEST KASIPUL"
+            ],
+            [
+              "1222",
+              "SOUTH KASIPUL"
+            ],
+            [
+              "1223",
+              "CENTRAL KASIPUL"
+            ],
+            [
+              "1224",
+              "EAST KAMAGAK"
+            ],
+            [
+              "1225",
+              "WEST KAMAGAK"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KABONDO KASIPUL",
+          "wards": [
+            [
+              "1226",
+              "KABONDO EAST"
+            ],
+            [
+              "1227",
+              "KABONDO WEST"
+            ],
+            [
+              "1228",
+              "KOKWANYO/KAKELO"
+            ],
+            [
+              "1229",
+              "KOJWACH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KARACHUONYO",
+          "wards": [
+            [
+              "1230",
+              "WEST KARACHUONYO"
+            ],
+            [
+              "1231",
+              "NORTH KARACHUONYO"
+            ],
+            [
+              "1232",
+              "CENTRAL"
+            ],
+            [
+              "1233",
+              "KANYALUO"
+            ],
+            [
+              "1234",
+              "KIBIRI"
+            ],
+            [
+              "1235",
+              "WANGCHIENG"
+            ],
+            [
+              "1236",
+              "KENDU BAY TOWN"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RANGWE",
+          "wards": [
+            [
+              "1237",
+              "WEST GEM"
+            ],
+            [
+              "1238",
+              "EAST GEM"
+            ],
+            [
+              "1239",
+              "KAGAN"
+            ],
+            [
+              "1240",
+              "KOCHIA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "HOMA BAY TOWN",
+          "wards": [
+            [
+              "1241",
+              "HOMA BAY CENTRAL"
+            ],
+            [
+              "1242",
+              "HOMA BAY ARUJO"
+            ],
+            [
+              "1243",
+              "HOMA BAY WEST"
+            ],
+            [
+              "1244",
+              "HOMA BAY EAST"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NDHIWA",
+          "wards": [
+            [
+              "1245",
+              "KWABWAI"
+            ],
+            [
+              "1246",
+              "KANYADOTO"
+            ],
+            [
+              "1247",
+              "KANYIKELA"
+            ],
+            [
+              "1248",
+              "NORTH KABUOCH"
+            ],
+            [
+              "1249",
+              "KABUOCH SOUTH/PALA"
+            ],
+            [
+              "1250",
+              "KANYAMWA KOLOGI"
+            ],
+            [
+              "1251",
+              "KANYAMWA KOSEWE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MBITA",
+          "wards": [
+            [
+              "1252",
+              "MFANGANO ISLAND"
+            ],
+            [
+              "1253",
+              "RUSINGA ISLAND"
+            ],
+            [
+              "1254",
+              "KASGUNGA"
+            ],
+            [
+              "1255",
+              "GEMBE"
+            ],
+            [
+              "1256",
+              "LAMBWE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SUBA",
+          "wards": [
+            [
+              "1257",
+              "GWASSI SOUTH"
+            ],
+            [
+              "1258",
+              "GWASSI NORTH"
+            ],
+            [
+              "1259",
+              "KAKSINGRI WEST"
+            ],
+            [
+              "1260",
+              "RUMA KAKSINGRI EAST"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "MIGORI",
+      "constituencies": [
+        {
+          "constituency_name": "RONGO",
+          "wards": [
+            [
+              "1261",
+              "NORTH KAMAGAMBO"
+            ],
+            [
+              "1262",
+              "CENTRAL KAMAGAMBO"
+            ],
+            [
+              "1263",
+              "EAST KAMAGAMBO"
+            ],
+            [
+              "1264",
+              "SOUTH KAMAGAMBO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "AWENDO",
+          "wards": [
+            [
+              "1265",
+              "NORTH SAKWA"
+            ],
+            [
+              "1266",
+              "SOUTH SAKWA"
+            ],
+            [
+              "1267",
+              "WEST SAKWA"
+            ],
+            [
+              "1268",
+              "CENTRAL SAKWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SUNA EAST",
+          "wards": [
+            [
+              "1269",
+              "GOD JOPE"
+            ],
+            [
+              "1270",
+              "SUNA CENTRAL"
+            ],
+            [
+              "1271",
+              "KAKRAO"
+            ],
+            [
+              "1272",
+              "KWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SUNA WEST",
+          "wards": [
+            [
+              "1273",
+              "WIGA"
+            ],
+            [
+              "1274",
+              "WASWETA II"
+            ],
+            [
+              "1275",
+              "RAGANA-ORUBA"
+            ],
+            [
+              "1276",
+              "WASIMBETE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "URIRI",
+          "wards": [
+            [
+              "1277",
+              "WEST KANYAMKAGO"
+            ],
+            [
+              "1278",
+              "NORTH KANYAMKAGO"
+            ],
+            [
+              "1279",
+              "CENTRAL KANYAMKAGO"
+            ],
+            [
+              "1280",
+              "SOUTH KANYAMKAGO"
+            ],
+            [
+              "1281",
+              "EAST KANYAMKAGO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYATIKE",
+          "wards": [
+            [
+              "1282",
+              "KACHIEN'G"
+            ],
+            [
+              "1283",
+              "KANYASA"
+            ],
+            [
+              "1284",
+              "NORTH KADEM"
+            ],
+            [
+              "1285",
+              "MACALDER/KANYARWANDA"
+            ],
+            [
+              "1286",
+              "KALER"
+            ],
+            [
+              "1287",
+              "GOT KACHOLA"
+            ],
+            [
+              "1288",
+              "MUHURU"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KURIA WEST",
+          "wards": [
+            [
+              "1289",
+              "BUKIRA EAST"
+            ],
+            [
+              "1290",
+              "BUKIRA CENTRL/IKEREGE"
+            ],
+            [
+              "1291",
+              "ISIBANIA"
+            ],
+            [
+              "1292",
+              "MAKERERO"
+            ],
+            [
+              "1293",
+              "MASABA"
+            ],
+            [
+              "1294",
+              "TAGARE"
+            ],
+            [
+              "1295",
+              "NYAMOSENSE/KOMOSOKO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KURIA EAST",
+          "wards": [
+            [
+              "1296",
+              "GOKEHARAKA/GETAMBWEGA"
+            ],
+            [
+              "1297",
+              "NTIMARU WEST"
+            ],
+            [
+              "1298",
+              "NTIMARU EAST"
+            ],
+            [
+              "1299",
+              "NYABASI EAST"
+            ],
+            [
+              "1300",
+              "NYABASI WEST"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "KISII",
+      "constituencies": [
+        {
+          "constituency_name": "BONCHARI",
+          "wards": [
+            [
+              "1301",
+              "BOMARIBA"
+            ],
+            [
+              "1302",
+              "BOGIAKUMU"
+            ],
+            [
+              "1303",
+              "BOMORENDA"
+            ],
+            [
+              "1304",
+              "RIANA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "SOUTH MUGIRANGO",
+          "wards": [
+            [
+              "1305",
+              "TABAKA"
+            ],
+            [
+              "1306",
+              "BOIKANG'A"
+            ],
+            [
+              "1307",
+              "BOGETENGA"
+            ],
+            [
+              "1308",
+              "BORABU / CHITAGO"
+            ],
+            [
+              "1309",
+              "MOTICHO"
+            ],
+            [
+              "1310",
+              "GETENGA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BOMACHOGE BORABU",
+          "wards": [
+            [
+              "1311",
+              "BOMBABA BORABU"
+            ],
+            [
+              "1312",
+              "BOOCHI BORABU"
+            ],
+            [
+              "1313",
+              "BOKIMONGE"
+            ],
+            [
+              "1314",
+              "MAGENCHE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BOBASI",
+          "wards": [
+            [
+              "1315",
+              "MASIGE WEST"
+            ],
+            [
+              "1316",
+              "MASIGE EAST"
+            ],
+            [
+              "1317",
+              "BOBASI CENTRAL"
+            ],
+            [
+              "1318",
+              "NYACHEKI"
+            ],
+            [
+              "1319",
+              "BOBASI BOGETAORIO"
+            ],
+            [
+              "1320",
+              "BOBASI CHACHE"
+            ],
+            [
+              "1321",
+              "SAMETA/MOKWERERO"
+            ],
+            [
+              "1322",
+              "BOBASI BOITANGARE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BOMACHOGE CHACHE",
+          "wards": [
+            [
+              "1323",
+              "MAJOGE"
+            ],
+            [
+              "1324",
+              "BOOCHI/TENDERE"
+            ],
+            [
+              "1325",
+              "BOSOTI/SENGERA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYARIBARI MASABA",
+          "wards": [
+            [
+              "1326",
+              "ICHUNI"
+            ],
+            [
+              "1327",
+              "NYAMASIBI"
+            ],
+            [
+              "1328",
+              "MASIMBA"
+            ],
+            [
+              "1329",
+              "GESUSU"
+            ],
+            [
+              "1330",
+              "KIAMOKAMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NYARIBARI CHACHE",
+          "wards": [
+            [
+              "1331",
+              "BOBARACHO"
+            ],
+            [
+              "1332",
+              "KISII CENTRAL"
+            ],
+            [
+              "1333",
+              "KEUMBU"
+            ],
+            [
+              "1334",
+              "KIOGORO"
+            ],
+            [
+              "1335",
+              "BIRONGO"
+            ],
+            [
+              "1336",
+              "IBENO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUTU CHACHE NORTH",
+          "wards": [
+            [
+              "1337",
+              "MONYERERO"
+            ],
+            [
+              "1338",
+              "SENSI"
+            ],
+            [
+              "1339",
+              "MARANI"
+            ],
+            [
+              "1340",
+              "KEGOGI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KITUTU CHACHE SOUTH",
+          "wards": [
+            [
+              "1341",
+              "BOGUSERO"
+            ],
+            [
+              "1342",
+              "BOGEKA"
+            ],
+            [
+              "1343",
+              "NYAKOE"
+            ],
+            [
+              "1344",
+              "KITUTU   CENTRAL"
+            ],
+            [
+              "1345",
+              "NYATIEKO"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NYAMIRA",
+      "constituencies": [
+        {
+          "constituency_name": "KITUTU MASABA",
+          "wards": [
+            [
+              "1346",
+              "RIGOMA"
+            ],
+            [
+              "1347",
+              "GACHUBA"
+            ],
+            [
+              "1348",
+              "KEMERA"
+            ],
+            [
+              "1349",
+              "MAGOMBO"
+            ],
+            [
+              "1350",
+              "MANGA"
+            ],
+            [
+              "1351",
+              "GESIMA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "WEST MUGIRANGO",
+          "wards": [
+            [
+              "1352",
+              "NYAMAIYA"
+            ],
+            [
+              "1353",
+              "BOGICHORA"
+            ],
+            [
+              "1354",
+              "BOSAMARO"
+            ],
+            [
+              "1355",
+              "BONYAMATUTA"
+            ],
+            [
+              "1356",
+              "TOWNSHIP"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "NORTH MUGIRANGO",
+          "wards": [
+            [
+              "1357",
+              "ITIBO"
+            ],
+            [
+              "1358",
+              "BOMWAGAMO"
+            ],
+            [
+              "1359",
+              "BOKEIRA"
+            ],
+            [
+              "1360",
+              "MAGWAGWA"
+            ],
+            [
+              "1361",
+              "EKERENYO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "BORABU",
+          "wards": [
+            [
+              "1362",
+              "MEKENENE"
+            ],
+            [
+              "1363",
+              "KIABONYORU"
+            ],
+            [
+              "1364",
+              "NYANSIONGO"
+            ],
+            [
+              "1365",
+              "ESISE"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "county_name": "NAIROBI",
+      "constituencies": [
+        {
+          "constituency_name": "WESTLANDS",
+          "wards": [
+            [
+              "1366",
+              "KITISURU"
+            ],
+            [
+              "1367",
+              "PARKLANDS/HIGHRIDGE"
+            ],
+            [
+              "1368",
+              "KARURA"
+            ],
+            [
+              "1369",
+              "KANGEMI"
+            ],
+            [
+              "1370",
+              "MOUNTAIN VIEW"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "DAGORETTI NORTH",
+          "wards": [
+            [
+              "1371",
+              "KILIMANI"
+            ],
+            [
+              "1372",
+              "KAWANGWARE"
+            ],
+            [
+              "1373",
+              "GATINA"
+            ],
+            [
+              "1374",
+              "KILELESHWA"
+            ],
+            [
+              "1375",
+              "KABIRO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "DAGORETTI SOUTH",
+          "wards": [
+            [
+              "1376",
+              "MUTUINI"
+            ],
+            [
+              "1377",
+              "NGANDO"
+            ],
+            [
+              "1378",
+              "RIRUTA"
+            ],
+            [
+              "1379",
+              "UTHIRU/RUTHIMITU"
+            ],
+            [
+              "1380",
+              "WAITHAKA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "LANGATA",
+          "wards": [
+            [
+              "1381",
+              "KAREN"
+            ],
+            [
+              "1382",
+              "NAIROBI WEST"
+            ],
+            [
+              "1383",
+              "MUGUMO-INI"
+            ],
+            [
+              "1384",
+              "SOUTH-C"
+            ],
+            [
+              "1385",
+              "NYAYO HIGHRISE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KIBRA",
+          "wards": [
+            [
+              "1386",
+              "LAINI SABA"
+            ],
+            [
+              "1387",
+              "LINDI"
+            ],
+            [
+              "1388",
+              "MAKINA"
+            ],
+            [
+              "1389",
+              "WOODLEY/KENYATTA GOLF"
+            ],
+            [
+              "1390",
+              "SARANGOMBE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "ROYSAMBU",
+          "wards": [
+            [
+              "1391",
+              "GITHURAI"
+            ],
+            [
+              "1392",
+              "KAHAWA WEST"
+            ],
+            [
+              "1393",
+              "ZIMMERMAN"
+            ],
+            [
+              "1394",
+              "ROYSAMBU"
+            ],
+            [
+              "1395",
+              "KAHAWA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KASARANI",
+          "wards": [
+            [
+              "1396",
+              "CLAYCITY"
+            ],
+            [
+              "1397",
+              "MWIKI"
+            ],
+            [
+              "1398",
+              "KASARANI"
+            ],
+            [
+              "1399",
+              "NJIRU"
+            ],
+            [
+              "1400",
+              "RUAI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "RUARAKA",
+          "wards": [
+            [
+              "1401",
+              "BABA DOGO"
+            ],
+            [
+              "1402",
+              "UTALII"
+            ],
+            [
+              "1403",
+              "MATHARE NORTH"
+            ],
+            [
+              "1404",
+              "LUCKY SUMMER"
+            ],
+            [
+              "1405",
+              "KOROGOCHO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMBAKASI SOUTH",
+          "wards": [
+            [
+              "1406",
+              "IMARA DAIMA"
+            ],
+            [
+              "1407",
+              "KWA NJENGA"
+            ],
+            [
+              "1408",
+              "KWA REUBEN"
+            ],
+            [
+              "1409",
+              "PIPELINE"
+            ],
+            [
+              "1410",
+              "KWARE"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMBAKASI NORTH",
+          "wards": [
+            [
+              "1411",
+              "KARIOBANGI NORTH"
+            ],
+            [
+              "1412",
+              "DANDORA AREA I"
+            ],
+            [
+              "1413",
+              "DANDORA AREA II"
+            ],
+            [
+              "1414",
+              "DANDORA AREA III"
+            ],
+            [
+              "1415",
+              "DANDORA AREA IV"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMBAKASI CENTRAL",
+          "wards": [
+            [
+              "1416",
+              "KAYOLE NORTH"
+            ],
+            [
+              "1417",
+              "KAYOLE CENTRAL"
+            ],
+            [
+              "1418",
+              "KAYOLE SOUTH"
+            ],
+            [
+              "1419",
+              "KOMAROCK"
+            ],
+            [
+              "1420",
+              "MATOPENI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMBAKASI EAST",
+          "wards": [
+            [
+              "1421",
+              "UPPER SAVANNAH"
+            ],
+            [
+              "1422",
+              "LOWER SAVANNAH"
+            ],
+            [
+              "1423",
+              "EMBAKASI"
+            ],
+            [
+              "1424",
+              "UTAWALA"
+            ],
+            [
+              "1425",
+              "MIHANGO"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "EMBAKASI WEST",
+          "wards": [
+            [
+              "1426",
+              "UMOJA I"
+            ],
+            [
+              "1427",
+              "UMOJA II"
+            ],
+            [
+              "1428",
+              "MOWLEM"
+            ],
+            [
+              "1429",
+              "KARIOBANGI SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MAKADARA",
+          "wards": [
+            [
+              "1430",
+              "MAKONGENI"
+            ],
+            [
+              "1431",
+              "MARINGO/HAMZA"
+            ],
+            [
+              "1432",
+              "HARAMBEE"
+            ],
+            [
+              "1433",
+              "VIWANDANI"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "KAMUKUNJI",
+          "wards": [
+            [
+              "1434",
+              "PUMWANI"
+            ],
+            [
+              "1435",
+              "EASTLEIGH NORTH"
+            ],
+            [
+              "1436",
+              "EASTLEIGH SOUTH"
+            ],
+            [
+              "1437",
+              "AIRBASE"
+            ],
+            [
+              "1438",
+              "CALIFORNIA"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "STAREHE",
+          "wards": [
+            [
+              "1439",
+              "NAIROBI CENTRAL"
+            ],
+            [
+              "1440",
+              "NGARA"
+            ],
+            [
+              "1441",
+              "ZIWANI/KARIOKOR"
+            ],
+            [
+              "1442",
+              "PANGANI"
+            ],
+            [
+              "1443",
+              "LANDIMAWE"
+            ],
+            [
+              "1444",
+              "NAIROBI SOUTH"
+            ]
+          ]
+        },
+        {
+          "constituency_name": "MATHARE",
+          "wards": [
+            [
+              "1445",
+              "HOSPITAL"
+            ],
+            [
+              "1446",
+              "MABATINI"
+            ],
+            [
+              "1447",
+              "HURUMA"
+            ],
+            [
+              "1448",
+              "NGEI"
+            ],
+            [
+              "1449",
+              "MLANGO KUBWA"
+            ],
+            [
+              "1450",
+              "KIAMAIKO"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
