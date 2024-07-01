@@ -72,11 +72,11 @@ const Home = () => {
         return (
           <div className="flex flex-row gap-2 items-center justify-between">
             <EyeIcon
-              onClick={() => redirectToView(rowData.id)}
+            //   onClick={() => redirectToView(rowData.id)}
               className="w-5 h-5 text-gray-500 cursor-pointer"
             />
             <PencilIcon
-              onClick={() => redirectToUpdate(rowData.id)}
+            //   onClick={() => redirectToUpdate(rowData.id)}
               className="w-5 h-5 text-green-500 cursor-pointer"
             />
             <TrashIcon
@@ -111,7 +111,7 @@ const Home = () => {
                     stripedRows
                     paginator
                     rows={10}
-                    emptyMessage="No products added"
+                    emptyMessage="No properties added"
                     loading={loading}
                     rowsPerPageOptions={[10, 25, 50]}
                     tableStyle={{ minWidth: "50rem" }}

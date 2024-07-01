@@ -129,7 +129,7 @@ export default function AddProperty() {
         const imageUrls = downloadURLs.map(url => ({ url }));
 
         if (imageUrls.length > 0 && title && description && bedrooms && propertyType && availabilityType && (rentprice || saleprice) && town && selectedCounty && subcounties) {
-          db.collection('RealEstate').doc(user.uid).collection('products').add({
+          db.collection('RealEstate').doc(user.uid).collection('properties').add({
             propertyType: propertyType,
             availabilityType: availabilityType,
             title: title,
