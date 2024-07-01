@@ -48,7 +48,7 @@ const Home = () => {
 
     const getProductsForBusiness = async (businessRef) => {
         try {
-            const productsRef = businessRef.collection("products");
+            const productsRef = businessRef.collection("properties");
             const querySnapshot = await productsRef.get();
             const productsData = [];
             querySnapshot.forEach((doc) => {
@@ -56,7 +56,7 @@ const Home = () => {
             });
             setProducts(productsData);
         } catch (error) {
-            console.error("Error fetching products:", error);
+            console.error("Error fetching properties:", error);
         }
     };
 
