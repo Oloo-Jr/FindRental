@@ -1,0 +1,17 @@
+export const propertyTypes = [
+    { label: 'Residential Apartment - Studio', value: 'residential_apartment_studio' },
+    { label: 'Residential Apartment - One B/ Room', value: 'residential_apartment_one_b_room' },
+    { label: 'Residential Apartment - Two B/ Room', value: 'residential_apartment_two_b_room' },
+    { label: 'Residential Apartment - Three B/Room', value: 'residential_apartment_three_b_room' },
+    { label: 'Residential Apartment - Four B/Room Plus', value: 'residential_apartment_four_b_room_plus' },
+    { label: 'Residential Bungalow - One B/Room', value: 'residential_bungalow_one_b_room' },
+    { label: 'Residential Bungalow - Two B/Room', value: 'residential_bungalow_two_b_room' },
+    { label: 'Residential Bungalow - Three B/Room', value: 'residential_bungalow_three_b_room' },
+    { label: 'Residential Bungalow - Four B/Room Plus', value: 'residential_bungalow_four_b_room_plus' },
+    { label: 'Residential Mansionette - Two B/Room', value: 'residential_mansionette_two_b_room' },
+    { label: 'Residential Mansionette - Three B/Room', value: 'residential_mansionette_three_b_room' },
+    { label: 'Residential Mansionette - Four B/Room Plus', value: 'residential_mansionette_four_b_room_plus' },
+    { label: 'Residential Mansionette - Five B/Room Plus', value: 'residential_mansionette_five_b_room_plus' },
+    { label: 'Commercial Space - Office Block', value: 'commercial_space_office_block' },
+    { label: 'Commercial Space- Retail Block', value: 'commercial_space_retail_block' },
+  ];

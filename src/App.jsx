@@ -5,14 +5,16 @@ import "primereact/resources/themes/lara-light-cyan/theme.css";
 import Login from './Screens/SignIn/SignIn';
 import Home from './Screens/Home/Home';
 import AddProperty from './Screens/AddProperty/AddProperty';
+import RentalSignup from './Screens/SignUp/Signup';
 
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Login />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/signup" element={<RentalSignup />} />
         <Route path="/add-property" element={<AddProperty />} />
         {/* <Route path="/view-product/:id" element={<ViewProduct />} /> */}
         {/* <Route path="/edit-product/:id" element={<EditProduct />} /> */}

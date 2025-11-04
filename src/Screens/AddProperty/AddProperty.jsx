@@ -8,11 +8,11 @@ import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import countiesData from '../../data/county.json';
 import { InputTextarea } from 'primereact/inputtextarea';
+import { propertyTypes } from '../../Components/propertyType';
 
 export default function AddProperty() {
   const navigate = useNavigate();
   const toast = useRef(null);
-
   const [loading, setLoading] = useState(false);
   const [images, setImages] = useState([]);
   const [description, setDescription] = useState("");
@@ -142,6 +142,7 @@ export default function AddProperty() {
             subcounties: subcounties,
             selectedCounty: selectedCounty,
             createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+            vacant: true
           });
 
           toast.current.show({
@@ -177,7 +178,7 @@ export default function AddProperty() {
   };
 
   const cancelUpload = () => {
-    navigate('/');
+    navigate('/home');
   };
 
   return (
@@ -198,9 +199,11 @@ export default function AddProperty() {
               required
             >
               <option value="">Select a Type</option>
-              <option>Apartment</option>
-              <option>Mansion</option>
-              <option>Townhouse</option>
+              {propertyTypes.map((type) => (
+                <option key={type.value} value={type.value}>
+                  {type.label}
+                </option>
+              ))}
             </select>
           </div>
           <div className="flex flex-col gap-1">

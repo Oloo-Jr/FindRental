@@ -23,7 +23,7 @@ export default function MainHeader() {
     auth
       .signOut()
       .then(() => {
-        navigate('/login');
+        navigate('/');
       })
       .catch(error => alert(error.message))
   }
